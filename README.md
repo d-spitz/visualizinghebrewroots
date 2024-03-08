@@ -6,6 +6,6 @@ Hover over a node to see its meaning in English.
 The graphs are separated by binyan, and each one filters out any isolated nodes of degree 0. 
 
 ## Other links
-- [https://en.wikipedia.org/wiki/Semitic_root](Information on the root system)
-- [https://en.wikipedia.org/wiki/Modern_Hebrew_verbs](Information on the verb system)
-- [https://www.pealim.com/dict/](Source Dictionary)
+- [Information on the root system](https://en.wikipedia.org/wiki/Semitic_root)
+- [Information on the verb system, binyanim](https://en.wikipedia.org/wiki/Modern_Hebrew_verbs)
+- [Source Dictionary](https://www.pealim.com/dict/)
