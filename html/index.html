@@ -1,12 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="David Spitz">
-    <title>Visualizing Hebrew Roots</title>
-  </head>
-  <body>
-  </body>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Index of Graphs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .button-container {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 20px;
+      margin: 10px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-size: 18px;
+      transition: background-color 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Index of Pages</h1>
+  <div class="button-container" id="buttonContainer"></div>
+
+  <script>
+    // Array of page links
+    const pages = [
+      { name: "pa'al", link: "roots_verb_paal_network.html" },
+      { name: "nif'al", link: "roots_verb_nifal_network.html" },
+      { name: "pi'el", link: "roots_verb_piel_network.html" },
+      { name: "hif'il", link: "roots_verb_hifil_network.html" },
+      { name: "hitpa'el", link: "roots_verb_hitpael_network.html" }
+    ];
+
+    // Function to render the buttons
+    function renderButtons() {
+      const buttonContainer = document.getElementById('buttonContainer');
+      pages.forEach(page => {
+        const button = document.createElement('a');
+        button.textContent = page.name;
+        button.href = page.link;
+        button.className = 'button';
+        buttonContainer.appendChild(button);
+      });
+    }
+
+    renderButtons();
+  </script>
+</body>
+
 </html>
