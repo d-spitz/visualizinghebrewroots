@@ -15,40 +15,41 @@
 
     .button-container {
       display: flex;
-      justify-content: space-between;
+      justify-content: space-around;
+      flex-wrap: wrap;
       margin-top: 20px;
     }
 
     .button {
       display: inline-block;
-      padding: 20px;
+      padding: 30px 60px;
       margin: 10px;
-      background-color: #007bff;
+      background-color: #0077cc;
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      font-size: 18px;
+      font-size: 24px;
       transition: background-color 0.3s ease;
     }
 
     .button:hover {
-      background-color: #0056b3;
+      background-color: #0055a9;
     }
   </style>
 </head>
 
 <body>
-  <h1>Index of Pages</h1>
+  <h1>Index of Graphs</h1>
   <div class="button-container" id="buttonContainer"></div>
 
   <script>
     // Array of page links
     const pages = [
-      { name: "pa'al", link: "roots_verb_paal_network.html" },
-      { name: "nif'al", link: "roots_verb_nifal_network.html" },
-      { name: "pi'el", link: "roots_verb_piel_network.html" },
-      { name: "hif'il", link: "roots_verb_hifil_network.html" },
-      { name: "hitpa'el", link: "roots_verb_hitpael_network.html" }
+      { name: "pa'al", link: "roots_verb_pa'al_network.html" },
+      { name: "nif'al", link: "roots_verb_nif'al_network.html" },
+      { name: "pi'el", link: "roots_verb_pi'el_network.html" },
+      { name: "hif'il", link: "roots_verb_hif'il_network.html" },
+      { name: "hitpa'el", link: "roots_verb_hitpa'el_network.html" }
     ];
 
     // Function to render the buttons
