@@ -1,0 +1,2661 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="title" type="string" />
+      <attribute id="1" title="word" type="string" />
+    </attributes>
+    <nodes>
+      <node id="אבד" label="אבד">
+        <attvalues>
+          <attvalue for="0" value="to be lost, to perish" />
+          <attvalue for="1" value="לְהֵיאָבֵד" />
+        </attvalues>
+      </node>
+      <node id="אבק" label="אבק">
+        <attvalues>
+          <attvalue for="0" value="to struggle, to wrestle" />
+          <attvalue for="1" value="לְהֵיאָבֵק" />
+        </attvalues>
+      </node>
+      <node id="אגד" label="אגד">
+        <attvalues>
+          <attvalue for="0" value="to be bound together, united" />
+          <attvalue for="1" value="לְהֵיאָגֵד" />
+        </attvalues>
+      </node>
+      <node id="אגר" label="אגר">
+        <attvalues>
+          <attvalue for="0" value="to be collected, to accumulate" />
+          <attvalue for="1" value="לְהֵיאָגֵר" />
+        </attvalues>
+      </node>
+      <node id="אהב" label="אהב">
+        <attvalues>
+          <attvalue for="0" value="to be loved" />
+          <attvalue for="1" value="לְהֵיאָהֵב" />
+        </attvalues>
+      </node>
+      <node id="אות" label="אות">
+        <attvalues>
+          <attvalue for="0" value="to agree, to consent, to be proper" />
+          <attvalue for="1" value="לְהֵיאוֹת" />
+        </attvalues>
+      </node>
+      <node id="אחז" label="אחז">
+        <attvalues>
+          <attvalue for="0" value="to hold on (ב-)" />
+          <attvalue for="1" value="לְהֵיאָחֵז" />
+        </attvalues>
+      </node>
+      <node id="אטם" label="אטם">
+        <attvalues>
+          <attvalue for="0" value="to be sealed, closed up" />
+          <attvalue for="1" value="לְהֵיאָטֵם" />
+        </attvalues>
+      </node>
+      <node id="אכל" label="אכל">
+        <attvalues>
+          <attvalue for="0" value="to be eaten" />
+          <attvalue for="1" value="לְהֵיאָכֵל" />
+        </attvalues>
+      </node>
+      <node id="אכף" label="אכף">
+        <attvalues>
+          <attvalue for="0" value="to be enforced, to be imposed" />
+          <attvalue for="1" value="לְהֵיאָכֵף" />
+        </attvalues>
+      </node>
+      <node id="אלם" label="אלם">
+        <attvalues>
+          <attvalue for="0" value="to be dumbfounded" />
+          <attvalue for="1" value="לְהֵיאָלֵם" />
+        </attvalues>
+      </node>
+      <node id="אלץ" label="אלץ">
+        <attvalues>
+          <attvalue for="0" value="to be obliged" />
+          <attvalue for="1" value="לְהֵיאָלֵץ" />
+        </attvalues>
+      </node>
+      <node id="אמד" label="אמד">
+        <attvalues>
+          <attvalue for="0" value="to be estimated" />
+          <attvalue for="1" value="לְהֵיאָמֵד" />
+        </attvalues>
+      </node>
+      <node id="אמן" label="אמן">
+        <attvalues>
+          <attvalue for="0" value="to be credible, loyal, faithful" />
+          <attvalue for="1" value="לְהֵיאָמֵן" />
+        </attvalues>
+      </node>
+      <node id="אמר" label="אמר">
+        <attvalues>
+          <attvalue for="0" value="to be said" />
+          <attvalue for="1" value="לְהֵיאָמֵר" />
+        </attvalues>
+      </node>
+      <node id="אנח" label="אנח">
+        <attvalues>
+          <attvalue for="0" value="to sigh" />
+          <attvalue for="1" value="לְהֵיאָנֵחַ" />
+        </attvalues>
+      </node>
+      <node id="אנס" label="אנס">
+        <attvalues>
+          <attvalue for="0" value="to be raped" />
+          <attvalue for="1" value="לְהֵיאָנֵס" />
+        </attvalues>
+      </node>
+      <node id="אנק" label="אנק">
+        <attvalues>
+          <attvalue for="0" value="to moan" />
+          <attvalue for="1" value="לְהֵיאָנֵק" />
+        </attvalues>
+      </node>
+      <node id="אסף" label="אסף">
+        <attvalues>
+          <attvalue for="0" value="to be collected" />
+          <attvalue for="1" value="לְהֵיאָסֵף" />
+        </attvalues>
+      </node>
+      <node id="אסר" label="אסר">
+        <attvalues>
+          <attvalue for="0" value="to be prohibited, to be imprisoned" />
+          <attvalue for="1" value="לְהֵיאָסֵר" />
+        </attvalues>
+      </node>
+      <node id="אפה" label="אפה">
+        <attvalues>
+          <attvalue for="0" value="to be baked" />
+          <attvalue for="1" value="לְהֵיאָפוֹת" />
+        </attvalues>
+      </node>
+      <node id="ארג" label="ארג">
+        <attvalues>
+          <attvalue for="0" value="to be woven" />
+          <attvalue for="1" value="לְהֵיאָרֵג" />
+        </attvalues>
+      </node>
+      <node id="ארז" label="ארז">
+        <attvalues>
+          <attvalue for="0" value="to be packed, tied" />
+          <attvalue for="1" value="לְהֵיאָרֵז" />
+        </attvalues>
+      </node>
+      <node id="אשם" label="אשם">
+        <attvalues>
+          <attvalue for="0" value="to be accused, held liable (ב-)" />
+          <attvalue for="1" value="לְהֵיאָשֵׁם" />
+        </attvalues>
+      </node>
+      <node id="בגד" label="בגד">
+        <attvalues>
+          <attvalue for="0" value="to be betrayed, cheated upon" />
+          <attvalue for="1" value="לְהִיבָּגֵד" />
+        </attvalues>
+      </node>
+      <node id="בדה" label="בדה">
+        <attvalues>
+          <attvalue for="0" value="to be made up, fabricated" />
+          <attvalue for="1" value="לְהִיבָּדוֹת" />
+        </attvalues>
+      </node>
+      <node id="בדל" label="בדל">
+        <attvalues>
+          <attvalue for="0" value="to be separated, differentiated" />
+          <attvalue for="1" value="לְהִיבָּדֵל" />
+        </attvalues>
+      </node>
+      <node id="בדק" label="בדק">
+        <attvalues>
+          <attvalue for="0" value="to be tested, examined" />
+          <attvalue for="1" value="לְהִיבָּדֵק" />
+        </attvalues>
+      </node>
+      <node id="בהל" label="בהל">
+        <attvalues>
+          <attvalue for="0" value="to panic, to be alarmed" />
+          <attvalue for="1" value="לְהִיבָּהֵל" />
+        </attvalues>
+      </node>
+      <node id="בוך" label="בוך">
+        <attvalues>
+          <attvalue for="0" value="to be embarrassed, confused" />
+          <attvalue for="1" value="לְהִיבּוֹךְ" />
+        </attvalues>
+      </node>
+      <node id="בחן" label="בחן">
+        <attvalues>
+          <attvalue for="0" value="to be tested, examined" />
+          <attvalue for="1" value="לְהִיבָּחֵן" />
+        </attvalues>
+      </node>
+      <node id="בחר" label="בחר">
+        <attvalues>
+          <attvalue for="0" value="to be chosen" />
+          <attvalue for="1" value="לְהִיבָּחֵר" />
+        </attvalues>
+      </node>
+      <node id="בלם" label="בלם">
+        <attvalues>
+          <attvalue for="0" value="to be blocked, stopped" />
+          <attvalue for="1" value="לְהִיבָּלֵם" />
+        </attvalues>
+      </node>
+      <node id="בלע" label="בלע">
+        <attvalues>
+          <attvalue for="0" value="to be swallowed" />
+          <attvalue for="1" value="לְהִיבָּלֵעַ" />
+        </attvalues>
+      </node>
+      <node id="בנה" label="בנה">
+        <attvalues>
+          <attvalue for="0" value="to be built, constructed" />
+          <attvalue for="1" value="לְהִיבָּנוֹת" />
+        </attvalues>
+      </node>
+      <node id="בעט" label="בעט">
+        <attvalues>
+          <attvalue for="0" value="to be kicked" />
+          <attvalue for="1" value="לְהִיבָּעֵט" />
+        </attvalues>
+      </node>
+      <node id="בעה" label="בעה">
+        <attvalues>
+          <attvalue for="0" value="to be revealed, to turn out (lit.)" />
+          <attvalue for="1" value="לְהִיבָּעוֹת" />
+        </attvalues>
+      </node>
+      <node id="בעת" label="בעת">
+        <attvalues>
+          <attvalue for="0" value="to be terrified, horrified (lit.)" />
+          <attvalue for="1" value="לְהִיבָּעֵת" />
+        </attvalues>
+      </node>
+      <node id="בצע" label="בצע">
+        <attvalues>
+          <attvalue for="0" value="to be sliced, to be cut, to be broken (bread)" />
+          <attvalue for="1" value="לְהִיבָּצֵעַ" />
+        </attvalues>
+      </node>
+      <node id="בצר" label="בצר">
+        <attvalues>
+          <attvalue for="0" value="to be impossible (for) (מין)" />
+          <attvalue for="1" value="לְהִיבָּצֵר" />
+        </attvalues>
+      </node>
+      <node id="בקע" label="בקע">
+        <attvalues>
+          <attvalue for="0" value="to be cracked" />
+          <attvalue for="1" value="לְהִיבָּקֵעַ" />
+        </attvalues>
+      </node>
+      <node id="ברא" label="ברא">
+        <attvalues>
+          <attvalue for="0" value="to be created" />
+          <attvalue for="1" value="לְהִיבָּרֵא" />
+        </attvalues>
+      </node>
+      <node id="גאל" label="גאל">
+        <attvalues>
+          <attvalue for="0" value="to be redeemed, rescued" />
+          <attvalue for="1" value="לְהִיגָּאֵל" />
+        </attvalues>
+      </node>
+      <node id="גבה" label="גבה">
+        <attvalues>
+          <attvalue for="0" value="to be collected (of tax, fees)" />
+          <attvalue for="1" value="לְהִיגָּבוֹת" />
+        </attvalues>
+      </node>
+      <node id="גדם" label="גדם">
+        <attvalues>
+          <attvalue for="0" value="to be amputated, severed" />
+          <attvalue for="1" value="לְהִיגָּדֵם" />
+        </attvalues>
+      </node>
+      <node id="גדע" label="גדע">
+        <attvalues>
+          <attvalue for="0" value="to be severed, to be cut off; to die, to perish (lit.)" />
+          <attvalue for="1" value="לְהִיגָּדֵעַ" />
+        </attvalues>
+      </node>
+      <node id="גוז" label="גוז">
+        <attvalues>
+          <attvalue for="0" value="to disappear, to vanish (lit.)" />
+          <attvalue for="1" value="לְהִיגּוֹז" />
+        </attvalues>
+      </node>
+      <node id="גזז" label="גזז">
+        <attvalues>
+          <attvalue for="0" value="to be cut off" />
+          <attvalue for="1" value="לְהִיגָּזֵז" />
+        </attvalues>
+      </node>
+      <node id="גזל" label="גזל">
+        <attvalues>
+          <attvalue for="0" value="to be stolen, robbed" />
+          <attvalue for="1" value="לְהִיגָּזֵל" />
+        </attvalues>
+      </node>
+      <node id="גזם" label="גזם">
+        <attvalues>
+          <attvalue for="0" value="to be trimmed, clipped" />
+          <attvalue for="1" value="לְהִיגָּזֵם" />
+        </attvalues>
+      </node>
+      <node id="גזר" label="גזר">
+        <attvalues>
+          <attvalue for="0" value="to be cut off; to be sentenced; to be derived" />
+          <attvalue for="1" value="לְהִיגָּזֵר" />
+        </attvalues>
+      </node>
+      <node id="גלה" label="גלה">
+        <attvalues>
+          <attvalue for="0" value="to become visible, to be revealed" />
+          <attvalue for="1" value="לְהִיגָּלוֹת" />
+        </attvalues>
+      </node>
+      <node id="גלל" label="גלל">
+        <attvalues>
+          <attvalue for="0" value="to roll, to be rolled (lit.); to be unrolled, to be revealed (lit.)" />
+          <attvalue for="1" value="לְהִיגּוֹל" />
+        </attvalues>
+      </node>
+      <node id="גמל" label="גמל">
+        <attvalues>
+          <attvalue for="0" value="to be weaned, to be rehabilitated" />
+          <attvalue for="1" value="לְהִיגָּמֵל" />
+        </attvalues>
+      </node>
+      <node id="גמר" label="גמר">
+        <attvalues>
+          <attvalue for="0" value="to come to an end, to run out, to end" />
+          <attvalue for="1" value="לְהִיגָּמֵר" />
+        </attvalues>
+      </node>
+      <node id="גנב" label="גנב">
+        <attvalues>
+          <attvalue for="0" value="to be stolen" />
+          <attvalue for="1" value="לְהִיגָּנֵב" />
+        </attvalues>
+      </node>
+      <node id="גנז" label="גנז">
+        <attvalues>
+          <attvalue for="0" value="to be hidden, buried; to be postponed cancelled" />
+          <attvalue for="1" value="לְהִיגָּנֵז" />
+        </attvalues>
+      </node>
+      <node id="גרם" label="גרם">
+        <attvalues>
+          <attvalue for="0" value="to be caused" />
+          <attvalue for="1" value="לְהִיגָּרֵם" />
+        </attvalues>
+      </node>
+      <node id="גרס" label="גרס">
+        <attvalues>
+          <attvalue for="0" value="to be shredded, ground" />
+          <attvalue for="1" value="לְהִיגָּרֵס" />
+        </attvalues>
+      </node>
+      <node id="גרע" label="גרע">
+        <attvalues>
+          <attvalue for="0" value="to be subtracted, removed" />
+          <attvalue for="1" value="לְהִיגָּרֵעַ" />
+        </attvalues>
+      </node>
+      <node id="גרף" label="גרף">
+        <attvalues>
+          <attvalue for="0" value="to be raked, scooped, swept" />
+          <attvalue for="1" value="לְהִיגָּרֵף" />
+        </attvalues>
+      </node>
+      <node id="גרר" label="גרר">
+        <attvalues>
+          <attvalue for="0" value="to be dragged, towed" />
+          <attvalue for="1" value="לְהִיגָּרֵר" />
+        </attvalues>
+      </node>
+      <node id="דבק" label="דבק">
+        <attvalues>
+          <attvalue for="0" value="to stick; to get infected" />
+          <attvalue for="1" value="לְהִידָּבֵק" />
+        </attvalues>
+      </node>
+      <node id="דבר" label="דבר">
+        <attvalues>
+          <attvalue for="0" value="to agree, to come to an agreement" />
+          <attvalue for="1" value="לְהִידָּבֵר" />
+        </attvalues>
+      </node>
+      <node id="דהם" label="דהם">
+        <attvalues>
+          <attvalue for="0" value="to be amazed, astounded" />
+          <attvalue for="1" value="לְהִידָּהֵם" />
+        </attvalues>
+      </node>
+      <node id="דון" label="דון">
+        <attvalues>
+          <attvalue for="0" value="to be discussed, talked over" />
+          <attvalue for="1" value="לְהִידּוֹן" />
+        </attvalues>
+      </node>
+      <node id="דחה" label="דחה">
+        <attvalues>
+          <attvalue for="0" value="to be postponed; to be rejected" />
+          <attvalue for="1" value="לְהִידָּחוֹת" />
+        </attvalues>
+      </node>
+      <node id="דחף" label="דחף">
+        <attvalues>
+          <attvalue for="0" value="to be pushed, shoved" />
+          <attvalue for="1" value="לְהִידָּחֵף" />
+        </attvalues>
+      </node>
+      <node id="דחק" label="דחק">
+        <attvalues>
+          <attvalue for="0" value="to push one's way; to be pushed, shoved aside" />
+          <attvalue for="1" value="לְהִידָּחֵק" />
+        </attvalues>
+      </node>
+      <node id="דלק" label="דלק">
+        <attvalues>
+          <attvalue for="0" value="to be ignited" />
+          <attvalue for="1" value="לְהִידָּלֵק" />
+        </attvalues>
+      </node>
+      <node id="דמה" label="דמה">
+        <attvalues>
+          <attvalue for="0" value="to resemble, to be similar to" />
+          <attvalue for="1" value="לְהִידָּמוֹת" />
+        </attvalues>
+      </node>
+      <node id="דמם" label="דמם">
+        <attvalues>
+          <attvalue for="0" value="to be silent; to be brought to silence (lit.)" />
+          <attvalue for="1" value="לְהִידּוֹם" />
+        </attvalues>
+      </node>
+      <node id="דפס" label="דפס">
+        <attvalues>
+          <attvalue for="0" value="to be printed; to be published" />
+          <attvalue for="1" value="לְהִידָּפֵס" />
+        </attvalues>
+      </node>
+      <node id="דפק" label="דפק">
+        <attvalues>
+          <attvalue for="0" value="to be knocked, sl. screwed" />
+          <attvalue for="1" value="לְהִידָּפֵק" />
+        </attvalues>
+      </node>
+      <node id="דקר" label="דקר">
+        <attvalues>
+          <attvalue for="0" value="to be stabbed, pricked" />
+          <attvalue for="1" value="לְהִידָּקֵר" />
+        </attvalues>
+      </node>
+      <node id="דרך" label="דרך">
+        <attvalues>
+          <attvalue for="0" value="to be stepped upon" />
+          <attvalue for="1" value="לְהִידָּרֵךְ" />
+        </attvalues>
+      </node>
+      <node id="דרס" label="דרס">
+        <attvalues>
+          <attvalue for="0" value="to be stomped, to be run over" />
+          <attvalue for="1" value="לְהִידָּרֵס" />
+        </attvalues>
+      </node>
+      <node id="דרש" label="דרש">
+        <attvalues>
+          <attvalue for="0" value="to be required" />
+          <attvalue for="1" value="לְהִידָּרֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="הגה" label="הגה">
+        <attvalues>
+          <attvalue for="0" value="to be pronounced, uttered; to be considered, thought of" />
+          <attvalue for="1" value="לְהֵיהָגוֹת" />
+        </attvalues>
+      </node>
+      <node id="הדף" label="הדף">
+        <attvalues>
+          <attvalue for="0" value="to be repulsed, to be warded off (an attack)" />
+          <attvalue for="1" value="לְהֵיהָדֵף" />
+        </attvalues>
+      </node>
+      <node id="היה" label="היה">
+        <attvalues>
+          <attvalue for="0" value="to become" />
+          <attvalue for="1" value="נִהְיָה" />
+        </attvalues>
+      </node>
+      <node id="הנה" label="הנה">
+        <attvalues>
+          <attvalue for="0" value="to enjoy (מן)" />
+          <attvalue for="1" value="לֵיהָנוֹת" />
+        </attvalues>
+      </node>
+      <node id="הפך" label="הפך">
+        <attvalues>
+          <attvalue for="0" value="to turn over, to become (ל-)" />
+          <attvalue for="1" value="לְהֵיהָפֵךְ" />
+        </attvalues>
+      </node>
+      <node id="הרג" label="הרג">
+        <attvalues>
+          <attvalue for="0" value="to be killed" />
+          <attvalue for="1" value="לְהֵיהָרֵג" />
+        </attvalues>
+      </node>
+      <node id="הרס" label="הרס">
+        <attvalues>
+          <attvalue for="0" value="to be destroyed, ruined; to be tired, exhausted (slang)" />
+          <attvalue for="1" value="לְהֵיהָרֵס" />
+        </attvalues>
+      </node>
+      <node id="זבח" label="זבח">
+        <attvalues>
+          <attvalue for="0" value="to be sacrificed (of an animal)" />
+          <attvalue for="1" value="לְהִיזָּבֵחַ" />
+        </attvalues>
+      </node>
+      <node id="זהר" label="זהר">
+        <attvalues>
+          <attvalue for="0" value="to be careful, to beware (מן)" />
+          <attvalue for="1" value="לְהִיזָּהֵר" />
+        </attvalues>
+      </node>
+      <node id="זון" label="זון">
+        <attvalues>
+          <attvalue for="0" value="to be fed, to be nourished" />
+          <attvalue for="1" value="לְהִיזּוֹן" />
+        </attvalues>
+      </node>
+      <node id="זור" label="זור">
+        <attvalues>
+          <attvalue for="0" value="to go away (rare, lit.)" />
+          <attvalue for="1" value="לְהִיזּוֹר" />
+        </attvalues>
+      </node>
+      <node id="זכר" label="זכר">
+        <attvalues>
+          <attvalue for="0" value="to recall (ב-)" />
+          <attvalue for="1" value="לְהִיזָּכֵר" />
+        </attvalues>
+      </node>
+      <node id="זעם" label="זעם">
+        <attvalues>
+          <attvalue for="0" value="to become angry (על)" />
+          <attvalue for="1" value="לְהִיזָּעֵם" />
+        </attvalues>
+      </node>
+      <node id="זעק" label="זעק">
+        <attvalues>
+          <attvalue for="0" value="to arrive quickly (in response to an alarm); to be summoned" />
+          <attvalue for="1" value="לְהִיזָּעֵק" />
+        </attvalues>
+      </node>
+      <node id="זקף" label="זקף">
+        <attvalues>
+          <attvalue for="0" value="to be recognised, credited to (ל-)" />
+          <attvalue for="1" value="לְהִיזָּקֵף" />
+        </attvalues>
+      </node>
+      <node id="זקק" label="זקק">
+        <attvalues>
+          <attvalue for="0" value="to need, to require (ל-)" />
+          <attvalue for="1" value="לְהִיזָּקֵק" />
+        </attvalues>
+      </node>
+      <node id="זרה" label="זרה">
+        <attvalues>
+          <attvalue for="0" value="to be scattered, sprinkled" />
+          <attvalue for="1" value="לְהִיזָּרוֹת" />
+        </attvalues>
+      </node>
+      <node id="זרע" label="זרע">
+        <attvalues>
+          <attvalue for="0" value="to be sown, disseminated" />
+          <attvalue for="1" value="לְהִיזָּרֵעַ" />
+        </attvalues>
+      </node>
+      <node id="זרק" label="זרק">
+        <attvalues>
+          <attvalue for="0" value="to be thrown" />
+          <attvalue for="1" value="לְהִיזָּרֵק" />
+        </attvalues>
+      </node>
+      <node id="חבא" label="חבא">
+        <attvalues>
+          <attvalue for="0" value="to be hidden" />
+          <attvalue for="1" value="לְהֵיחָבֵא" />
+        </attvalues>
+      </node>
+      <node id="חבט" label="חבט">
+        <attvalues>
+          <attvalue for="0" value="to bump into, to be hurt by (ב, עם)" />
+          <attvalue for="1" value="לְהֵיחָבֵט" />
+        </attvalues>
+      </node>
+      <node id="חבל" label="חבל">
+        <attvalues>
+          <attvalue for="0" value="to be bruised, injured" />
+          <attvalue for="1" value="לְהֵיחָבֵל" />
+        </attvalues>
+      </node>
+      <node id="חבש" label="חבש">
+        <attvalues>
+          <attvalue for="0" value="to be bandaged" />
+          <attvalue for="1" value="לְהֵיחָבֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="חגג" label="חגג">
+        <attvalues>
+          <attvalue for="0" value="to be celebrated" />
+          <attvalue for="1" value="לְהֵיחָגֵג" />
+        </attvalues>
+      </node>
+      <node id="חזה" label="חזה">
+        <attvalues>
+          <attvalue for="0" value="to be foreseen, to be expected" />
+          <attvalue for="1" value="לְהֵיחָזוֹת" />
+        </attvalues>
+      </node>
+      <node id="חטב" label="חטב">
+        <attvalues>
+          <attvalue for="0" value="to be chopped, hewn" />
+          <attvalue for="1" value="לְהֵיחָטֵב" />
+        </attvalues>
+      </node>
+      <node id="חטף" label="חטף">
+        <attvalues>
+          <attvalue for="0" value="to be snatched, kidnapped" />
+          <attvalue for="1" value="לְהֵיחָטֵף" />
+        </attvalues>
+      </node>
+      <node id="חכר" label="חכר">
+        <attvalues>
+          <attvalue for="0" value="to be leased, hired" />
+          <attvalue for="1" value="לְהֵיחָכֵר" />
+        </attvalues>
+      </node>
+      <node id="חלץ" label="חלץ">
+        <attvalues>
+          <attvalue for="0" value="to be rescued, to escape" />
+          <attvalue for="1" value="לְהֵיחָלֵץ" />
+        </attvalues>
+      </node>
+      <node id="חלק" label="חלק">
+        <attvalues>
+          <attvalue for="0" value="to be divided; to disagree" />
+          <attvalue for="1" value="לְהֵיחָלֵק" />
+        </attvalues>
+      </node>
+      <node id="חלש" label="חלש">
+        <attvalues>
+          <attvalue for="0" value="to become weaker" />
+          <attvalue for="1" value="לְהֵיחָלֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="חנט" label="חנט">
+        <attvalues>
+          <attvalue for="0" value="to be embalmed" />
+          <attvalue for="1" value="לְהֵיחָנֵט" />
+        </attvalues>
+      </node>
+      <node id="חנך" label="חנך">
+        <attvalues>
+          <attvalue for="0" value="to be inaugurated" />
+          <attvalue for="1" value="לְהֵיחָנֵךְ" />
+        </attvalues>
+      </node>
+      <node id="חנן" label="חנן">
+        <attvalues>
+          <attvalue for="0" value="to be endowed (with something) (ב־)" />
+          <attvalue for="1" value="לְהֵיחֵן" />
+        </attvalues>
+      </node>
+      <node id="חנק" label="חנק">
+        <attvalues>
+          <attvalue for="0" value="to choke, to be strangled" />
+          <attvalue for="1" value="לְהֵיחָנֵק" />
+        </attvalues>
+      </node>
+      <node id="חסך" label="חסך">
+        <attvalues>
+          <attvalue for="0" value="to be saved, spared" />
+          <attvalue for="1" value="לְהֵיחָסֵךְ" />
+        </attvalues>
+      </node>
+      <node id="חסם" label="חסם">
+        <attvalues>
+          <attvalue for="0" value="to be blocked, obstructed" />
+          <attvalue for="1" value="לְהֵיחָסֵם" />
+        </attvalues>
+      </node>
+      <node id="חפז" label="חפז">
+        <attvalues>
+          <attvalue for="0" value="to rush, to hurry" />
+          <attvalue for="1" value="לְהֵיחָפֵז" />
+        </attvalues>
+      </node>
+      <node id="חפר" label="חפר">
+        <attvalues>
+          <attvalue for="0" value="to be excavated" />
+          <attvalue for="1" value="לְהֵיחָפֵר" />
+        </attvalues>
+      </node>
+      <node id="חצב" label="חצב">
+        <attvalues>
+          <attvalue for="0" value="to be chiselled, carved" />
+          <attvalue for="1" value="לְהֵיחָצֵב" />
+        </attvalues>
+      </node>
+      <node id="חצה" label="חצה">
+        <attvalues>
+          <attvalue for="0" value="to be divided, to be crossed" />
+          <attvalue for="1" value="לְהֵיחָצוֹת" />
+        </attvalues>
+      </node>
+      <node id="חקק" label="חקק">
+        <attvalues>
+          <attvalue for="0" value="to be engraved; to be enacted (of a law)" />
+          <attvalue for="1" value="לְהֵיחָקֵק" />
+        </attvalues>
+      </node>
+      <node id="חקר" label="חקר">
+        <attvalues>
+          <attvalue for="0" value="to be investigated, explored" />
+          <attvalue for="1" value="לְהֵיחָקֵר" />
+        </attvalues>
+      </node>
+      <node id="חרב" label="חרב">
+        <attvalues>
+          <attvalue for="0" value="to be destroyed, ruined" />
+          <attvalue for="1" value="לְהֵיחָרֵב" />
+        </attvalues>
+      </node>
+      <node id="חרד" label="חרד">
+        <attvalues>
+          <attvalue for="0" value="to be appalled, horrified with (מן)" />
+          <attvalue for="1" value="לְהֵיחָרֵד" />
+        </attvalues>
+      </node>
+      <node id="חרז" label="חרז">
+        <attvalues>
+          <attvalue for="0" value="to be rhymed; to be strung (of beads, pearls)" />
+          <attvalue for="1" value="לְהֵיחָרֵז" />
+        </attvalues>
+      </node>
+      <node id="חרט" label="חרט">
+        <attvalues>
+          <attvalue for="0" value="to be etched, engraved" />
+          <attvalue for="1" value="לְהֵיחָרֵט" />
+        </attvalues>
+      </node>
+      <node id="חרך" label="חרך">
+        <attvalues>
+          <attvalue for="0" value="to be scorched" />
+          <attvalue for="1" value="לְהֵיחָרֵךְ" />
+        </attvalues>
+      </node>
+      <node id="חרץ" label="חרץ">
+        <attvalues>
+          <attvalue for="0" value="to be determined, decided" />
+          <attvalue for="1" value="לְהֵיחָרֵץ" />
+        </attvalues>
+      </node>
+      <node id="חרש" label="חרש">
+        <attvalues>
+          <attvalue for="0" value="to be ploughed" />
+          <attvalue for="1" value="לְהֵיחָרֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="חרת" label="חרת">
+        <attvalues>
+          <attvalue for="0" value="to be etched, to be engraved" />
+          <attvalue for="1" value="לְהֵיחָרֵת" />
+        </attvalues>
+      </node>
+      <node id="חשב" label="חשב">
+        <attvalues>
+          <attvalue for="0" value="to be considered as (ל-)" />
+          <attvalue for="1" value="לְהֵיחָשֵׁב" />
+        </attvalues>
+      </node>
+      <node id="חשד" label="חשד">
+        <attvalues>
+          <attvalue for="0" value="to be suspected" />
+          <attvalue for="1" value="לְהֵיחָשֵׁד" />
+        </attvalues>
+      </node>
+      <node id="חשף" label="חשף">
+        <attvalues>
+          <attvalue for="0" value="to be revealed, exposed" />
+          <attvalue for="1" value="לְהֵיחָשֵׂף" />
+        </attvalues>
+      </node>
+      <node id="חשק" label="חשק">
+        <attvalues>
+          <attvalue for="0" value="to be desired, coveted" />
+          <attvalue for="1" value="לְהֵיחָשֵׁק" />
+        </attvalues>
+      </node>
+      <node id="חתך" label="חתך">
+        <attvalues>
+          <attvalue for="0" value="to be cut, slashed (ב-)" />
+          <attvalue for="1" value="לְהֵיחָתֵךְ" />
+        </attvalues>
+      </node>
+      <node id="חתם" label="חתם">
+        <attvalues>
+          <attvalue for="0" value="to be signed, sealed" />
+          <attvalue for="1" value="לְהֵיחָתֵם" />
+        </attvalues>
+      </node>
+      <node id="טבח" label="טבח">
+        <attvalues>
+          <attvalue for="0" value="to be slaughtered, butchered" />
+          <attvalue for="1" value="לְהִיטָּבֵחַ" />
+        </attvalues>
+      </node>
+      <node id="טבל" label="טבל">
+        <attvalues>
+          <attvalue for="0" value="to be dipped, immersed" />
+          <attvalue for="1" value="לְהִיטָּבֵל" />
+        </attvalues>
+      </node>
+      <node id="טבע" label="טבע">
+        <attvalues>
+          <attvalue for="0" value="to be minted" />
+          <attvalue for="1" value="לְהִיטָּבֵעַ" />
+        </attvalues>
+      </node>
+      <node id="טהר" label="טהר">
+        <attvalues>
+          <attvalue for="0" value="to be purified (lit.)" />
+          <attvalue for="1" value="לְהִיטָּהֵר" />
+        </attvalues>
+      </node>
+      <node id="טמא" label="טמא">
+        <attvalues>
+          <attvalue for="0" value="to be defiled, tainted" />
+          <attvalue for="1" value="לְהִיטָּמֵא" />
+        </attvalues>
+      </node>
+      <node id="טמן" label="טמן">
+        <attvalues>
+          <attvalue for="0" value="to be buried" />
+          <attvalue for="1" value="לְהִיטָּמֵן" />
+        </attvalues>
+      </node>
+      <node id="טמע" label="טמע">
+        <attvalues>
+          <attvalue for="0" value="to be assimilated; to fit in" />
+          <attvalue for="1" value="לְהִיטָּמֵעַ" />
+        </attvalues>
+      </node>
+      <node id="טען" label="טען">
+        <attvalues>
+          <attvalue for="0" value="to be loaded; to be (re)charged; to be claimed" />
+          <attvalue for="1" value="לְהִיטָּעֵן" />
+        </attvalues>
+      </node>
+      <node id="טפל" label="טפל">
+        <attvalues>
+          <attvalue for="0" value="to pick (on someone) (אל)" />
+          <attvalue for="1" value="לְהִיטָּפֵל" />
+        </attvalues>
+      </node>
+      <node id="טרף" label="טרף">
+        <attvalues>
+          <attvalue for="0" value="to be devoured; to be reshuffled" />
+          <attvalue for="1" value="לְהִיטָּרֵף" />
+        </attvalues>
+      </node>
+      <node id="טרק" label="טרק">
+        <attvalues>
+          <attvalue for="0" value="to be slammed" />
+          <attvalue for="1" value="לְהִיטָּרֵק" />
+        </attvalues>
+      </node>
+      <node id="יאש" label="יאש">
+        <attvalues>
+          <attvalue for="0" value="to despair, to lose hope, to give up" />
+          <attvalue for="1" value="לְהִיווָּאֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="ידע" label="ידע">
+        <attvalues>
+          <attvalue for="0" value="to become known (to) (ל-)" />
+          <attvalue for="1" value="לְהִיווָּדֵעַ" />
+        </attvalues>
+      </node>
+      <node id="יכח" label="יכח">
+        <attvalues>
+          <attvalue for="0" value="to be proven, to be convinced (ב-)" />
+          <attvalue for="1" value="לְהִיווָּכֵחַ" />
+        </attvalues>
+      </node>
+      <node id="ילד" label="ילד">
+        <attvalues>
+          <attvalue for="0" value="to be born" />
+          <attvalue for="1" value="לְהִיווָּלֵד" />
+        </attvalues>
+      </node>
+      <node id="יסד" label="יסד">
+        <attvalues>
+          <attvalue for="0" value="to be founded, to be established" />
+          <attvalue for="1" value="לְהִיווָּסֵד" />
+        </attvalues>
+      </node>
+      <node id="יסף" label="יסף">
+        <attvalues>
+          <attvalue for="0" value="to be added (to) (אל)" />
+          <attvalue for="1" value="לְהִיווָּסֵף" />
+        </attvalues>
+      </node>
+      <node id="יעד" label="יעד">
+        <attvalues>
+          <attvalue for="0" value="to be designed (for), to be aimed at; to meet, to get together" />
+          <attvalue for="1" value="לְהִיווָּעֵד" />
+        </attvalues>
+      </node>
+      <node id="יעז" label="יעז">
+        <attvalues>
+          <attvalue for="0" value="to dare" />
+          <attvalue for="1" value="לְהִיווָּעֵז" />
+        </attvalues>
+      </node>
+      <node id="יעץ" label="יעץ">
+        <attvalues>
+          <attvalue for="0" value="to consult, to ask for advice (ב-)" />
+          <attvalue for="1" value="לְהִיווָּעֵץ" />
+        </attvalues>
+      </node>
+      <node id="יצב" label="יצב">
+        <attvalues>
+          <attvalue for="0" value="to stand (vertically)" />
+          <attvalue for="1" value="נִיצָּב" />
+        </attvalues>
+      </node>
+      <node id="יצק" label="יצק">
+        <attvalues>
+          <attvalue for="0" value="to be cast, poured (of metal)" />
+          <attvalue for="1" value="לְהִיווָּצֵק" />
+        </attvalues>
+      </node>
+      <node id="יצר" label="יצר">
+        <attvalues>
+          <attvalue for="0" value="to be created" />
+          <attvalue for="1" value="לְהִיווָּצֵר" />
+        </attvalues>
+      </node>
+      <node id="ירה" label="ירה">
+        <attvalues>
+          <attvalue for="0" value="to be shot (by someone) (על ידי)" />
+          <attvalue for="1" value="לְהִייָּרוֹת" />
+        </attvalues>
+      </node>
+      <node id="ירש" label="ירש">
+        <attvalues>
+          <attvalue for="0" value="to become impoverished (lit.)" />
+          <attvalue for="1" value="לְהִיווָּרֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="ישע" label="ישע">
+        <attvalues>
+          <attvalue for="0" value="to be rescued, saved" />
+          <attvalue for="1" value="לְהִיווָּשֵׁעַ" />
+        </attvalues>
+      </node>
+      <node id="יתר" label="יתר">
+        <attvalues>
+          <attvalue for="0" value="to remain, to be left" />
+          <attvalue for="1" value="לְהִיווָּתֵר" />
+        </attvalues>
+      </node>
+      <node id="כבה" label="כבה">
+        <attvalues>
+          <attvalue for="0" value="to be extinguished" />
+          <attvalue for="1" value="לְהִיכָּבוֹת" />
+        </attvalues>
+      </node>
+      <node id="כבל" label="כבל">
+        <attvalues>
+          <attvalue for="0" value="to be bound, handcuffed" />
+          <attvalue for="1" value="לְהִיכָּבֵל" />
+        </attvalues>
+      </node>
+      <node id="כבש" label="כבש">
+        <attvalues>
+          <attvalue for="0" value="to be conquered, captured; to be pickled" />
+          <attvalue for="1" value="לְהִיכָּבֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="כוה" label="כוה">
+        <attvalues>
+          <attvalue for="0" value="to be burned, scalded" />
+          <attvalue for="1" value="לְהִיכָּווֹת" />
+        </attvalues>
+      </node>
+      <node id="כון" label="כון">
+        <attvalues>
+          <attvalue for="0" value="to be prepared, to be ready; to be right, to be true" />
+          <attvalue for="1" value="לְהִיכּוֹן" />
+        </attvalues>
+      </node>
+      <node id="כזב" label="כזב">
+        <attvalues>
+          <attvalue for="0" value="to fail (of plans, hopes)" />
+          <attvalue for="1" value="לְהִיכָּזֵב" />
+        </attvalues>
+      </node>
+      <node id="כחד" label="כחד">
+        <attvalues>
+          <attvalue for="0" value="to be annihilated; to be concealed (lit.)" />
+          <attvalue for="1" value="לְהִיכָּחֵד" />
+        </attvalues>
+      </node>
+      <node id="כלא" label="כלא">
+        <attvalues>
+          <attvalue for="0" value="to be arrested, imprisoned" />
+          <attvalue for="1" value="לְהִיכָּלֵא" />
+        </attvalues>
+      </node>
+      <node id="כלל" label="כלל">
+        <attvalues>
+          <attvalue for="0" value="to be included" />
+          <attvalue for="1" value="לְהִיכָּלֵל" />
+        </attvalues>
+      </node>
+      <node id="כלם" label="כלם">
+        <attvalues>
+          <attvalue for="0" value="to be ashamed, embarrassed (lit.)" />
+          <attvalue for="1" value="לְהִיכָּלֵם" />
+        </attvalues>
+      </node>
+      <node id="כנס" label="כנס">
+        <attvalues>
+          <attvalue for="0" value="to enter" />
+          <attvalue for="1" value="לְהִיכָּנֵס" />
+        </attvalues>
+      </node>
+      <node id="כנע" label="כנע">
+        <attvalues>
+          <attvalue for="0" value="to surrender" />
+          <attvalue for="1" value="לְהִיכָּנֵעַ" />
+        </attvalues>
+      </node>
+      <node id="כסף" label="כסף">
+        <attvalues>
+          <attvalue for="0" value="to yearn, to long for (ל-)" />
+          <attvalue for="1" value="לְהִיכָּסֵף" />
+        </attvalues>
+      </node>
+      <node id="כפה" label="כפה">
+        <attvalues>
+          <attvalue for="0" value="to be forced, compelled" />
+          <attvalue for="1" value="לְהִיכָּפוֹת" />
+        </attvalues>
+      </node>
+      <node id="כפף" label="כפף">
+        <attvalues>
+          <attvalue for="0" value="to be bent, to be stooped, to be curved" />
+          <attvalue for="1" value="לְהִיכָּפֵף" />
+        </attvalues>
+      </node>
+      <node id="כפת" label="כפת">
+        <attvalues>
+          <attvalue for="0" value="to be bound, handcuffed" />
+          <attvalue for="1" value="לְהִיכָּפֵת" />
+        </attvalues>
+      </node>
+      <node id="כרה" label="כרה">
+        <attvalues>
+          <attvalue for="0" value="to be mined (of ore, resources); to be dug" />
+          <attvalue for="1" value="לְהִיכָּרוֹת" />
+        </attvalues>
+      </node>
+      <node id="כרך" label="כרך">
+        <attvalues>
+          <attvalue for="0" value="to be wrapped, tied; to be bound (of a book)" />
+          <attvalue for="1" value="לְהִיכָּרֵךְ" />
+        </attvalues>
+      </node>
+      <node id="כרת" label="כרת">
+        <attvalues>
+          <attvalue for="0" value="to be cut off, amputated" />
+          <attvalue for="1" value="לְהִיכָּרֵת" />
+        </attvalues>
+      </node>
+      <node id="כשל" label="כשל">
+        <attvalues>
+          <attvalue for="0" value="to stumble; to fail" />
+          <attvalue for="1" value="לְהִיכָּשֵׁל" />
+        </attvalues>
+      </node>
+      <node id="כתב" label="כתב">
+        <attvalues>
+          <attvalue for="0" value="to be written" />
+          <attvalue for="1" value="לְהִיכָּתֵב" />
+        </attvalues>
+      </node>
+      <node id="לאה" label="לאה">
+        <attvalues>
+          <attvalue for="0" value="to get tired, to despair (lit.)" />
+          <attvalue for="1" value="לְהִילָּאוֹת" />
+        </attvalues>
+      </node>
+      <node id="לבש" label="לבש">
+        <attvalues>
+          <attvalue for="0" value="to be worn, to be put on (a garment)" />
+          <attvalue for="1" value="לְהִילָּבֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="להב" label="להב">
+        <attvalues>
+          <attvalue for="0" value="to be enthusiastic (מ־, לגבי)" />
+          <attvalue for="1" value="לְהִילָּהֵב" />
+        </attvalues>
+      </node>
+      <node id="לוה" label="לוה">
+        <attvalues>
+          <attvalue for="0" value="to accompany, to join" />
+          <attvalue for="1" value="לְהִילָּווֹת" />
+        </attvalues>
+      </node>
+      <node id="לחם" label="לחם">
+        <attvalues>
+          <attvalue for="0" value="to fight, to struggle, to battle" />
+          <attvalue for="1" value="לְהִילָּחֵם" />
+        </attvalues>
+      </node>
+      <node id="לחץ" label="לחץ">
+        <attvalues>
+          <attvalue for="0" value="to be pressed, to be under pressure" />
+          <attvalue for="1" value="לְהִילָּחֵץ" />
+        </attvalues>
+      </node>
+      <node id="לכד" label="לכד">
+        <attvalues>
+          <attvalue for="0" value="to be captured" />
+          <attvalue for="1" value="לְהִילָּכֵד" />
+        </attvalues>
+      </node>
+      <node id="למד" label="למד">
+        <attvalues>
+          <attvalue for="0" value="to be taught (of a topic, material)" />
+          <attvalue for="1" value="לְהִילָּמֵד" />
+        </attvalues>
+      </node>
+      <node id="לפת" label="לפת">
+        <attvalues>
+          <attvalue for="0" value="to recoil, to flinch, to shrink (biblical)" />
+          <attvalue for="1" value="לְהִילָּפֵת" />
+        </attvalues>
+      </node>
+      <node id="לקח" label="לקח">
+        <attvalues>
+          <attvalue for="0" value="to be taken" />
+          <attvalue for="1" value="לְהִילָּקֵחַ" />
+        </attvalues>
+      </node>
+      <node id="לקט" label="לקט">
+        <attvalues>
+          <attvalue for="0" value="to be collected, gathered" />
+          <attvalue for="1" value="לְהִילָּקֵט" />
+        </attvalues>
+      </node>
+      <node id="מאס" label="מאס">
+        <attvalues>
+          <attvalue for="0" value="to become boring (subject used with מן)" />
+          <attvalue for="1" value="לְהִימָּאֵס" />
+        </attvalues>
+      </node>
+      <node id="מדד" label="מדד">
+        <attvalues>
+          <attvalue for="0" value="to be measured" />
+          <attvalue for="1" value="לְהִימָּדֵד" />
+        </attvalues>
+      </node>
+      <node id="מהל" label="מהל">
+        <attvalues>
+          <attvalue for="0" value="to be diluted, to be mixed" />
+          <attvalue for="1" value="לְהִימָּהֵל" />
+        </attvalues>
+      </node>
+      <node id="מוג" label="מוג">
+        <attvalues>
+          <attvalue for="0" value="to fade, to dissipate" />
+          <attvalue for="1" value="לְהִימּוֹג" />
+        </attvalues>
+      </node>
+      <node id="מוט" label="מוט">
+        <attvalues>
+          <attvalue for="0" value="to collapse, to fall (lit.)" />
+          <attvalue for="1" value="לְהִימּוֹט" />
+        </attvalues>
+      </node>
+      <node id="מול" label="מול">
+        <attvalues>
+          <attvalue for="0" value="to be circumcised" />
+          <attvalue for="1" value="לְהִימּוֹל" />
+        </attvalues>
+      </node>
+      <node id="מחה" label="מחה">
+        <attvalues>
+          <attvalue for="0" value="to be obliterated, exterminated" />
+          <attvalue for="1" value="לְהִימָּחוֹת" />
+        </attvalues>
+      </node>
+      <node id="מחץ" label="מחץ">
+        <attvalues>
+          <attvalue for="0" value="to be squashed" />
+          <attvalue for="1" value="לְהִימָּחֵץ" />
+        </attvalues>
+      </node>
+      <node id="מחק" label="מחק">
+        <attvalues>
+          <attvalue for="0" value="to be erased, stricken out" />
+          <attvalue for="1" value="לְהִימָּחֵק" />
+        </attvalues>
+      </node>
+      <node id="מכר" label="מכר">
+        <attvalues>
+          <attvalue for="0" value="to be sold" />
+          <attvalue for="1" value="לְהִימָּכֵר" />
+        </attvalues>
+      </node>
+      <node id="מלא" label="מלא">
+        <attvalues>
+          <attvalue for="0" value="to be filled" />
+          <attvalue for="1" value="לְהִימָּלֵא" />
+        </attvalues>
+      </node>
+      <node id="מלט" label="מלט">
+        <attvalues>
+          <attvalue for="0" value="to escape, to flee" />
+          <attvalue for="1" value="לְהִימָּלֵט" />
+        </attvalues>
+      </node>
+      <node id="מנה" label="מנה">
+        <attvalues>
+          <attvalue for="0" value="to be counted, numbered; to belong" />
+          <attvalue for="1" value="לְהִימָּנוֹת" />
+        </attvalues>
+      </node>
+      <node id="מנע" label="מנע">
+        <attvalues>
+          <attvalue for="0" value="to be prevented; to abstain" />
+          <attvalue for="1" value="לְהִימָּנֵעַ" />
+        </attvalues>
+      </node>
+      <node id="מסס" label="מסס">
+        <attvalues>
+          <attvalue for="0" value="to be dissolved, to melt" />
+          <attvalue for="1" value="לְהִימּוֹס" />
+        </attvalues>
+      </node>
+      <node id="מסר" label="מסר">
+        <attvalues>
+          <attvalue for="0" value="to be delivered, to be handed over" />
+          <attvalue for="1" value="לְהִימָּסֵר" />
+        </attvalues>
+      </node>
+      <node id="מעך" label="מעך">
+        <attvalues>
+          <attvalue for="0" value="to be squashed, mashed" />
+          <attvalue for="1" value="לְהִימָּעֵךְ" />
+        </attvalues>
+      </node>
+      <node id="מצא" label="מצא">
+        <attvalues>
+          <attvalue for="0" value="to be found, discovered; to be present, to be located" />
+          <attvalue for="1" value="לְהִימָּצֵא" />
+        </attvalues>
+      </node>
+      <node id="מצץ" label="מצץ">
+        <attvalues>
+          <attvalue for="0" value="to be sucked" />
+          <attvalue for="1" value="לְהִימָּצֵץ" />
+        </attvalues>
+      </node>
+      <node id="מקק" label="מקק">
+        <attvalues>
+          <attvalue for="0" value="to rot" />
+          <attvalue for="1" value="לְהִימֵּק" />
+        </attvalues>
+      </node>
+      <node id="מרח" label="מרח">
+        <attvalues>
+          <attvalue for="0" value="to be spread, to be smeared" />
+          <attvalue for="1" value="לְהִימָּרֵחַ" />
+        </attvalues>
+      </node>
+      <node id="משה" label="משה">
+        <attvalues>
+          <attvalue for="0" value="to be pulled (out of water)" />
+          <attvalue for="1" value="לְהִימָּשׁוֹת" />
+        </attvalues>
+      </node>
+      <node id="משך" label="משך">
+        <attvalues>
+          <attvalue for="0" value="to last, to extend; to be stretched" />
+          <attvalue for="1" value="לְהִימָּשֵׁךְ" />
+        </attvalues>
+      </node>
+      <node id="משל" label="משל">
+        <attvalues>
+          <attvalue for="0" value="to be compared (with something); to be likened" />
+          <attvalue for="1" value="לְהִימָּשֵׁל" />
+        </attvalues>
+      </node>
+      <node id="מתח" label="מתח">
+        <attvalues>
+          <attvalue for="0" value="to be stretched" />
+          <attvalue for="1" value="לְהִימָּתֵחַ" />
+        </attvalues>
+      </node>
+      <node id="נבא" label="נבא">
+        <attvalues>
+          <attvalue for="0" value="to prophesy, to predict" />
+          <attvalue for="1" value="לְהִינָּבֵא" />
+        </attvalues>
+      </node>
+      <node id="נגע" label="נגע">
+        <attvalues>
+          <attvalue for="0" value="to be touched" />
+          <attvalue for="1" value="לְהִינָּגַע" />
+        </attvalues>
+      </node>
+      <node id="נגף" label="נגף">
+        <attvalues>
+          <attvalue for="0" value="to be defeated (lit.)" />
+          <attvalue for="1" value="לְהִינָּגֵף" />
+        </attvalues>
+      </node>
+      <node id="נגר" label="נגר">
+        <attvalues>
+          <attvalue for="0" value="to flow, to stream" />
+          <attvalue for="1" value="לְהִינָּגֵר" />
+        </attvalues>
+      </node>
+      <node id="נדף" label="נדף">
+        <attvalues>
+          <attvalue for="0" value="to fade, to dissipate" />
+          <attvalue for="1" value="לְהִינָּדֵף" />
+        </attvalues>
+      </node>
+      <node id="נזף" label="נזף">
+        <attvalues>
+          <attvalue for="0" value="to be reproached, rebuked" />
+          <attvalue for="1" value="לְהִינָּזֵף" />
+        </attvalues>
+      </node>
+      <node id="נזק" label="נזק">
+        <attvalues>
+          <attvalue for="0" value="to be damaged" />
+          <attvalue for="1" value="לְהִינָּזֵק" />
+        </attvalues>
+      </node>
+      <node id="נזר" label="נזר">
+        <attvalues>
+          <attvalue for="0" value="to refrain (from something), to deprive oneself (of something) (מן)" />
+          <attvalue for="1" value="לְהִינָּזֵר" />
+        </attvalues>
+      </node>
+      <node id="נחם" label="נחם">
+        <attvalues>
+          <attvalue for="0" value="to regret, to repent (biblical)" />
+          <attvalue for="1" value="לְהִינָּחֵם" />
+        </attvalues>
+      </node>
+      <node id="נטה" label="נטה">
+        <attvalues>
+          <attvalue for="0" value="to be conjugated (grammar)" />
+          <attvalue for="1" value="לְהִינָּטוֹת" />
+        </attvalues>
+      </node>
+      <node id="נטל" label="נטל">
+        <attvalues>
+          <attvalue for="0" value="to be taken away" />
+          <attvalue for="1" value="לְהִינָּטֵל" />
+        </attvalues>
+      </node>
+      <node id="נטע" label="נטע">
+        <attvalues>
+          <attvalue for="0" value="to be planted" />
+          <attvalue for="1" value="לְהִינָּטֵעַ" />
+        </attvalues>
+      </node>
+      <node id="נטש" label="נטש">
+        <attvalues>
+          <attvalue for="0" value="to be abandoned" />
+          <attvalue for="1" value="לְהִינָּטֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="נכר" label="נכר">
+        <attvalues>
+          <attvalue for="0" value="to be recognised, to be known as" />
+          <attvalue for="1" value="לְהִינָּכֵר" />
+        </attvalues>
+      </node>
+      <node id="נעל" label="נעל">
+        <attvalues>
+          <attvalue for="0" value="to be locked, closed" />
+          <attvalue for="1" value="לְהִינָּעֵל" />
+        </attvalues>
+      </node>
+      <node id="נעץ" label="נעץ">
+        <attvalues>
+          <attvalue for="0" value="to be embedded, lodged (bullet, knife, etc.)" />
+          <attvalue for="1" value="לְהִינָּעֵץ" />
+        </attvalues>
+      </node>
+      <node id="נער" label="נער">
+        <attvalues>
+          <attvalue for="0" value="to shake oneself, to shake up" />
+          <attvalue for="1" value="לְהִינָּעֵר" />
+        </attvalues>
+      </node>
+      <node id="נצל" label="נצל">
+        <attvalues>
+          <attvalue for="0" value="to be saved, to be rescued, to survive" />
+          <attvalue for="1" value="לְהִינָּצֵל" />
+        </attvalues>
+      </node>
+      <node id="נקט" label="נקט">
+        <attvalues>
+          <attvalue for="0" value="to be implemented (a measure)" />
+          <attvalue for="1" value="לְהִינָּקֵט" />
+        </attvalues>
+      </node>
+      <node id="נקם" label="נקם">
+        <attvalues>
+          <attvalue for="0" value="to take revenge (on someone: ב־, מ־) (biblical)" />
+          <attvalue for="1" value="לְהִינָּקֵם" />
+        </attvalues>
+      </node>
+      <node id="נשא" label="נשא">
+        <attvalues>
+          <attvalue for="0" value="to be raised, to be lifted up; to be given (of a speech); to be married" />
+          <attvalue for="1" value="לְהִינָּשֵׂא" />
+        </attvalues>
+      </node>
+      <node id="נשך" label="נשך">
+        <attvalues>
+          <attvalue for="0" value="to be bitten" />
+          <attvalue for="1" value="לְהִינָּשֵׁךְ" />
+        </attvalues>
+      </node>
+      <node id="נתז" label="נתז">
+        <attvalues>
+          <attvalue for="0" value="to be sprayed, sprinkled" />
+          <attvalue for="1" value="לְהִינָּתֵז" />
+        </attvalues>
+      </node>
+      <node id="נתן" label="נתן">
+        <attvalues>
+          <attvalue for="0" value="to be given; to be allowed, to be possible" />
+          <attvalue for="1" value="לְהִינָּתֵן" />
+        </attvalues>
+      </node>
+      <node id="נתק" label="נתק">
+        <attvalues>
+          <attvalue for="0" value="to be cut off, to be severed" />
+          <attvalue for="1" value="לְהִינָּתֵק" />
+        </attvalues>
+      </node>
+      <node id="סבב" label="סבב">
+        <attvalues>
+          <attvalue for="0" value="to surround; to focus on, to deal with" />
+          <attvalue for="1" value="לְהִיסּוֹב" />
+        </attvalues>
+      </node>
+      <node id="סגר" label="סגר">
+        <attvalues>
+          <attvalue for="0" value="to be closed, to be shut" />
+          <attvalue for="1" value="לְהִיסָּגֵר" />
+        </attvalues>
+      </node>
+      <node id="סדק" label="סדק">
+        <attvalues>
+          <attvalue for="0" value="to be cracked, to be fissured" />
+          <attvalue for="1" value="לְהִיסָּדֵק" />
+        </attvalues>
+      </node>
+      <node id="סוג" label="סוג">
+        <attvalues>
+          <attvalue for="0" value="to withdraw, to retreat" />
+          <attvalue for="1" value="לָסֶגֶת" />
+        </attvalues>
+      </node>
+      <node id="סחב" label="סחב">
+        <attvalues>
+          <attvalue for="0" value="to be drawn, to be dragged; to be stolen" />
+          <attvalue for="1" value="לְהִיסָּחֵב" />
+        </attvalues>
+      </node>
+      <node id="סחט" label="סחט">
+        <attvalues>
+          <attvalue for="0" value="to be squeezed out; to be extorted" />
+          <attvalue for="1" value="לְהִיסָּחֵט" />
+        </attvalues>
+      </node>
+      <node id="סחף" label="סחף">
+        <attvalues>
+          <attvalue for="0" value="to be carried away (by wind or water)" />
+          <attvalue for="1" value="לְהִיסָּחֵף" />
+        </attvalues>
+      </node>
+      <node id="סחר" label="סחר">
+        <attvalues>
+          <attvalue for="0" value="to be traded" />
+          <attvalue for="1" value="לְהִיסָּחֵר" />
+        </attvalues>
+      </node>
+      <node id="סלח" label="סלח">
+        <attvalues>
+          <attvalue for="0" value="to be forgiven" />
+          <attvalue for="1" value="לְהִיסָּלֵחַ" />
+        </attvalues>
+      </node>
+      <node id="סלל" label="סלל">
+        <attvalues>
+          <attvalue for="0" value="to be paved (of a road, path)" />
+          <attvalue for="1" value="לְהִיסָּלֵל" />
+        </attvalues>
+      </node>
+      <node id="סמך" label="סמך">
+        <attvalues>
+          <attvalue for="0" value="to be based, to be supported by, to depend on (על)" />
+          <attvalue for="1" value="לְהִיסָּמֵךְ" />
+        </attvalues>
+      </node>
+      <node id="סער" label="סער">
+        <attvalues>
+          <attvalue for="0" value="to be agitated, to be enraged" />
+          <attvalue for="1" value="לְהִיסָּעֵר" />
+        </attvalues>
+      </node>
+      <node id="ספג" label="ספג">
+        <attvalues>
+          <attvalue for="0" value="to be absorbed" />
+          <attvalue for="1" value="לְהִיסָּפֵג" />
+        </attvalues>
+      </node>
+      <node id="ספד" label="ספד">
+        <attvalues>
+          <attvalue for="0" value="to be eulogized, mourned (lit.)" />
+          <attvalue for="1" value="לְהִיסָּפֵד" />
+        </attvalues>
+      </node>
+      <node id="ספח" label="ספח">
+        <attvalues>
+          <attvalue for="0" value="to be appended" />
+          <attvalue for="1" value="לְהִיסָּפֵחַ" />
+        </attvalues>
+      </node>
+      <node id="ספה" label="ספה">
+        <attvalues>
+          <attvalue for="0" value="to die, to be killed (tragically)" />
+          <attvalue for="1" value="לְהִיסָּפוֹת" />
+        </attvalues>
+      </node>
+      <node id="ספר" label="ספר">
+        <attvalues>
+          <attvalue for="0" value="to be counted, accounted for" />
+          <attvalue for="1" value="לְהִיסָּפֵר" />
+        </attvalues>
+      </node>
+      <node id="סקל" label="סקל">
+        <attvalues>
+          <attvalue for="0" value="to be stoned, killed by stones" />
+          <attvalue for="1" value="לְהִיסָּקֵל" />
+        </attvalues>
+      </node>
+      <node id="סקר" label="סקר">
+        <attvalues>
+          <attvalue for="0" value="to be described; to be surveyed" />
+          <attvalue for="1" value="לְהִיסָּקֵר" />
+        </attvalues>
+      </node>
+      <node id="סרג" label="סרג">
+        <attvalues>
+          <attvalue for="0" value="to be crocheted, to be knitted" />
+          <attvalue for="1" value="לְהִיסָּרֵג" />
+        </attvalues>
+      </node>
+      <node id="סרט" label="סרט">
+        <attvalues>
+          <attvalue for="0" value="to be scratched, to be scraped" />
+          <attvalue for="1" value="לְהִיסָּרֵט" />
+        </attvalues>
+      </node>
+      <node id="סרק" label="סרק">
+        <attvalues>
+          <attvalue for="0" value="to be combed, to be searched; to be scanned" />
+          <attvalue for="1" value="לְהִיסָּרֵק" />
+        </attvalues>
+      </node>
+      <node id="סתם" label="סתם">
+        <attvalues>
+          <attvalue for="0" value="to be blocked, to be stopped up" />
+          <attvalue for="1" value="לְהִיסָּתֵם" />
+        </attvalues>
+      </node>
+      <node id="סתר" label="סתר">
+        <attvalues>
+          <attvalue for="0" value="to be hidden, concealed; to hide oneself" />
+          <attvalue for="1" value="לְהִיסָּתֵר" />
+        </attvalues>
+      </node>
+      <node id="עדר" label="עדר">
+        <attvalues>
+          <attvalue for="0" value="to be absent, to be missing" />
+          <attvalue for="1" value="לְהֵיעָדֵר" />
+        </attvalues>
+      </node>
+      <node id="עור" label="עור">
+        <attvalues>
+          <attvalue for="0" value="to be awaken, to get up (rare)" />
+          <attvalue for="1" value="לְהֵיעוֹר" />
+        </attvalues>
+      </node>
+      <node id="עזב" label="עזב">
+        <attvalues>
+          <attvalue for="0" value="to be left, to be abandoned" />
+          <attvalue for="1" value="לְהֵיעָזֵב" />
+        </attvalues>
+      </node>
+      <node id="עזר" label="עזר">
+        <attvalues>
+          <attvalue for="0" value="to be helped, to be assisted by (ב-)" />
+          <attvalue for="1" value="לְהֵיעָזֵר" />
+        </attvalues>
+      </node>
+      <node id="עטף" label="עטף">
+        <attvalues>
+          <attvalue for="0" value="to be wrapped, covered" />
+          <attvalue for="1" value="לְהֵיעָטֵף" />
+        </attvalues>
+      </node>
+      <node id="עטר" label="עטר">
+        <attvalues>
+          <attvalue for="0" value="to be crowned (with something) (lit.)" />
+          <attvalue for="1" value="לְהֵיעָטֵר" />
+        </attvalues>
+      </node>
+      <node id="עכל" label="עכל">
+        <attvalues>
+          <attvalue for="0" value="to be digested" />
+          <attvalue for="1" value="לְהֵיעָכֵל" />
+        </attvalues>
+      </node>
+      <node id="עכר" label="עכר">
+        <attvalues>
+          <attvalue for="0" value="to be troubled; to be marred, to be defaced" />
+          <attvalue for="1" value="לְהֵיעָכֵר" />
+        </attvalues>
+      </node>
+      <node id="עלב" label="עלב">
+        <attvalues>
+          <attvalue for="0" value="to be insulted, to be offended" />
+          <attvalue for="1" value="לְהֵיעָלֵב" />
+        </attvalues>
+      </node>
+      <node id="עלם" label="עלם">
+        <attvalues>
+          <attvalue for="0" value="to disappear" />
+          <attvalue for="1" value="לְהֵיעָלֵם" />
+        </attvalues>
+      </node>
+      <node id="עמד" label="עמד">
+        <attvalues>
+          <attvalue for="0" value="to stand up; to stop, to stand still" />
+          <attvalue for="1" value="לְהֵיעָמֵד" />
+        </attvalues>
+      </node>
+      <node id="ענה" label="ענה">
+        <attvalues>
+          <attvalue for="0" value="to receive an answer (from — על ידי); to accede, to consent" />
+          <attvalue for="1" value="לְהֵיעָנוֹת" />
+        </attvalues>
+      </node>
+      <node id="ענש" label="ענש">
+        <attvalues>
+          <attvalue for="0" value="to be punished" />
+          <attvalue for="1" value="לְהֵיעָנֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="עצב" label="עצב">
+        <attvalues>
+          <attvalue for="0" value="to become gloomy, to become sad (lit.)" />
+          <attvalue for="1" value="לְהֵיעָצֵב" />
+        </attvalues>
+      </node>
+      <node id="עצם" label="עצם">
+        <attvalues>
+          <attvalue for="0" value="to be closed (of eyes)" />
+          <attvalue for="1" value="לְהֵיעָצֵם" />
+        </attvalues>
+      </node>
+      <node id="עצר" label="עצר">
+        <attvalues>
+          <attvalue for="0" value="to stop, to be delayed; to be arrested" />
+          <attvalue for="1" value="לְהֵיעָצֵר" />
+        </attvalues>
+      </node>
+      <node id="עקף" label="עקף">
+        <attvalues>
+          <attvalue for="0" value="to be passed, to be overtaken; to be avoided, to be evaded" />
+          <attvalue for="1" value="לְהֵיעָקֵף" />
+        </attvalues>
+      </node>
+      <node id="עקץ" label="עקץ">
+        <attvalues>
+          <attvalue for="0" value="to be stung, bitten" />
+          <attvalue for="1" value="לְהֵיעָקֵץ" />
+        </attvalues>
+      </node>
+      <node id="עקר" label="עקר">
+        <attvalues>
+          <attvalue for="0" value="to be uprooted; to be exiled" />
+          <attvalue for="1" value="לְהֵיעָקֵר" />
+        </attvalues>
+      </node>
+      <node id="ערך" label="ערך">
+        <attvalues>
+          <attvalue for="0" value="to be held, organized; to prepare (for something); to be edited" />
+          <attvalue for="1" value="לְהֵיעָרֵךְ" />
+        </attvalues>
+      </node>
+      <node id="ערם" label="ערם">
+        <attvalues>
+          <attvalue for="0" value="to pile up, to accumulate" />
+          <attvalue for="1" value="לְהֵיעָרֵם" />
+        </attvalues>
+      </node>
+      <node id="ערץ" label="ערץ">
+        <attvalues>
+          <attvalue for="0" value="to be admired, respected, venerated" />
+          <attvalue for="1" value="לְהֵיעָרֵץ" />
+        </attvalues>
+      </node>
+      <node id="עשה" label="עשה">
+        <attvalues>
+          <attvalue for="0" value="to become; to be made, to be done, to be carried out" />
+          <attvalue for="1" value="לְהֵיעָשׂוֹת" />
+        </attvalues>
+      </node>
+      <node id="עתק" label="עתק">
+        <attvalues>
+          <attvalue for="0" value="to be moved, relocated; נעתקה נשימתו — he gasped, lost his breath" />
+          <attvalue for="1" value="לְהֵיעָתֵק" />
+        </attvalues>
+      </node>
+      <node id="עתר" label="עתר">
+        <attvalues>
+          <attvalue for="0" value="to accede, to acquiesce" />
+          <attvalue for="1" value="לְהֵיעָתֵר" />
+        </attvalues>
+      </node>
+      <node id="פגם" label="פגם">
+        <attvalues>
+          <attvalue for="0" value="to be damaged, to be disturbed" />
+          <attvalue for="1" value="לְהִיפָּגֵם" />
+        </attvalues>
+      </node>
+      <node id="פגע" label="פגע">
+        <attvalues>
+          <attvalue for="0" value="to be damaged, to be injured, to be wounded; to be insulted, to be offended" />
+          <attvalue for="1" value="לְהִיפָּגֵעַ" />
+        </attvalues>
+      </node>
+      <node id="פגש" label="פגש">
+        <attvalues>
+          <attvalue for="0" value="to meet, to run into" />
+          <attvalue for="1" value="לְהִיפָּגֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="פדה" label="פדה">
+        <attvalues>
+          <attvalue for="0" value="to be ransomed, to be rescued; to be redeemed (of a financial instrument)" />
+          <attvalue for="1" value="לְהִיפָּדוֹת" />
+        </attvalues>
+      </node>
+      <node id="פוץ" label="פוץ">
+        <attvalues>
+          <attvalue for="0" value="to be disseminated, scattered" />
+          <attvalue for="1" value="לְהִיפּוֹץ" />
+        </attvalues>
+      </node>
+      <node id="פטר" label="פטר">
+        <attvalues>
+          <attvalue for="0" value="to die, to pass away; to get rid of" />
+          <attvalue for="1" value="לְהִיפָּטֵר" />
+        </attvalues>
+      </node>
+      <node id="פלא" label="פלא">
+        <attvalues>
+          <attvalue for="0" value="to be wonderful, marvellous" />
+          <attvalue for="1" value="לְהִיפָּלֵא" />
+        </attvalues>
+      </node>
+      <node id="פלג" label="פלג">
+        <attvalues>
+          <attvalue for="0" value="to diverge (of views, opinions etc.) (lit.)" />
+          <attvalue for="1" value="לְהִיפָּלֵג" />
+        </attvalues>
+      </node>
+      <node id="פלט" label="פלט">
+        <attvalues>
+          <attvalue for="0" value="to be printed out, output; to be discharged (of a bullet); to escape (of words)" />
+          <attvalue for="1" value="לְהִיפָּלֵט" />
+        </attvalues>
+      </node>
+      <node id="פנה" label="פנה">
+        <attvalues>
+          <attvalue for="0" value="to turn around, to turn aside" />
+          <attvalue for="1" value="לְהִיפָּנוֹת" />
+        </attvalues>
+      </node>
+      <node id="פסח" label="פסח">
+        <attvalues>
+          <attvalue for="0" value="to be skipped, passed over (על)" />
+          <attvalue for="1" value="לְהִיפָּסֵחַ" />
+        </attvalues>
+      </node>
+      <node id="פסל" label="פסל">
+        <attvalues>
+          <attvalue for="0" value="to be disqualified; to be cancelled" />
+          <attvalue for="1" value="לְהִיפָּסֵל" />
+        </attvalues>
+      </node>
+      <node id="פסק" label="פסק">
+        <attvalues>
+          <attvalue for="0" value="to be stopped, to cease; to be ruled, to be decided" />
+          <attvalue for="1" value="לְהִיפָּסֵק" />
+        </attvalues>
+      </node>
+      <node id="פעם" label="פעם">
+        <attvalues>
+          <attvalue for="0" value="to be excited, to be thrilled" />
+          <attvalue for="1" value="לְהִיפָּעֵם" />
+        </attvalues>
+      </node>
+      <node id="פער" label="פער">
+        <attvalues>
+          <attvalue for="0" value="to be opened wide (of mouth)" />
+          <attvalue for="1" value="לְהִיפָּעֵר" />
+        </attvalues>
+      </node>
+      <node id="פצע" label="פצע">
+        <attvalues>
+          <attvalue for="0" value="to be injured, to be wounded, to be hurt" />
+          <attvalue for="1" value="לְהִיפָּצֵעַ" />
+        </attvalues>
+      </node>
+      <node id="פקד" label="פקד">
+        <attvalues>
+          <attvalue for="0" value="to be counted, to be accounted for; to be missing (of a soldier)" />
+          <attvalue for="1" value="לְהִיפָּקֵד" />
+        </attvalues>
+      </node>
+      <node id="פקח" label="פקח">
+        <attvalues>
+          <attvalue for="0" value="to be opened (of eyes, ears)" />
+          <attvalue for="1" value="לְהִיפָּקֵחַ" />
+        </attvalues>
+      </node>
+      <node id="פרד" label="פרד">
+        <attvalues>
+          <attvalue for="0" value="to be separated, to break up" />
+          <attvalue for="1" value="לְהִיפָּרֵד" />
+        </attvalues>
+      </node>
+      <node id="פרט" label="פרט">
+        <attvalues>
+          <attvalue for="0" value="to be changed (of cash, money), to be divided (into parts)" />
+          <attvalue for="1" value="לְהִיפָּרֵט" />
+        </attvalues>
+      </node>
+      <node id="פרם" label="פרם">
+        <attvalues>
+          <attvalue for="0" value="to be unravelled (sewing, knitting)" />
+          <attvalue for="1" value="לְהִיפָּרֵם" />
+        </attvalues>
+      </node>
+      <node id="פרס" label="פרס">
+        <attvalues>
+          <attvalue for="0" value="to be sliced, to be cut, to be spread out" />
+          <attvalue for="1" value="לְהִיפָּרֵס" />
+        </attvalues>
+      </node>
+      <node id="פרע" label="פרע">
+        <attvalues>
+          <attvalue for="0" value="to be paid, to be redeemed (a financial instrument); to be dishevelled, mussed up (of hair)" />
+          <attvalue for="1" value="לְהִיפָּרֵעַ" />
+        </attvalues>
+      </node>
+      <node id="פרץ" label="פרץ">
+        <attvalues>
+          <attvalue for="0" value="to be broken into (a house, a bank, a computer system)" />
+          <attvalue for="1" value="לְהִיפָּרֵץ" />
+        </attvalues>
+      </node>
+      <node id="פרק" label="פרק">
+        <attvalues>
+          <attvalue for="0" value="to be unloaded" />
+          <attvalue for="1" value="לְהִיפָּרֵק" />
+        </attvalues>
+      </node>
+      <node id="פרש" label="פרש">
+        <attvalues>
+          <attvalue for="0" value="to be spread out; to cover (an area)" />
+          <attvalue for="1" value="לְהִיפָּרֵשׂ" />
+        </attvalues>
+      </node>
+      <node id="פשט" label="פשט">
+        <attvalues>
+          <attvalue for="0" value="to be taken off (of clothing); to be removed by skinning (of an animal hide); to be extended, stretched out (a hand, etc.)" />
+          <attvalue for="1" value="לְהִיפָּשֵׁט" />
+        </attvalues>
+      </node>
+      <node id="פתח" label="פתח">
+        <attvalues>
+          <attvalue for="0" value="to be opened; to commence" />
+          <attvalue for="1" value="לְהִיפָּתֵחַ" />
+        </attvalues>
+      </node>
+      <node id="פתר" label="פתר">
+        <attvalues>
+          <attvalue for="0" value="to be solved, to be resolved" />
+          <attvalue for="1" value="לְהִיפָּתֵר" />
+        </attvalues>
+      </node>
+      <node id="צבט" label="צבט">
+        <attvalues>
+          <attvalue for="0" value="to be pinched" />
+          <attvalue for="1" value="לְהִיצָּבֵט" />
+        </attvalues>
+      </node>
+      <node id="צבע" label="צבע">
+        <attvalues>
+          <attvalue for="0" value="to be coloured, to be painted" />
+          <attvalue for="1" value="לְהִיצָּבֵעַ" />
+        </attvalues>
+      </node>
+      <node id="צבר" label="צבר">
+        <attvalues>
+          <attvalue for="0" value="to be accumulated, to be collected" />
+          <attvalue for="1" value="לְהִיצָּבֵר" />
+        </attvalues>
+      </node>
+      <node id="צוד" label="צוד">
+        <attvalues>
+          <attvalue for="0" value="to be hunted, to be captured" />
+          <attvalue for="1" value="לְהִיצּוֹד" />
+        </attvalues>
+      </node>
+      <node id="צלה" label="צלה">
+        <attvalues>
+          <attvalue for="0" value="to be roasted, grilled" />
+          <attvalue for="1" value="לְהִיצָּלוֹת" />
+        </attvalues>
+      </node>
+      <node id="צמד" label="צמד">
+        <attvalues>
+          <attvalue for="0" value="to cling (to something), to be glued to" />
+          <attvalue for="1" value="לְהִיצָּמֵד" />
+        </attvalues>
+      </node>
+      <node id="צפה" label="צפה">
+        <attvalues>
+          <attvalue for="0" value="to be seen, observed; to be predicted" />
+          <attvalue for="1" value="לְהִיצָּפוֹת" />
+        </attvalues>
+      </node>
+      <node id="צפן" label="צפן">
+        <attvalues>
+          <attvalue for="0" value="to be hidden, concealed" />
+          <attvalue for="1" value="לְהִיצָּפֵן" />
+        </attvalues>
+      </node>
+      <node id="צרב" label="צרב">
+        <attvalues>
+          <attvalue for="0" value="to be scalded, scorched" />
+          <attvalue for="1" value="לְהִיצָּרֵב" />
+        </attvalues>
+      </node>
+      <node id="צרך" label="צרך">
+        <attvalues>
+          <attvalue for="0" value="to be consumed; to need, to require (ל-)" />
+          <attvalue for="1" value="לְהִיצָּרֵךְ" />
+        </attvalues>
+      </node>
+      <node id="קבע" label="קבע">
+        <attvalues>
+          <attvalue for="0" value="to be decided, to be ruled" />
+          <attvalue for="1" value="לְהִיקָּבֵעַ" />
+        </attvalues>
+      </node>
+      <node id="קבץ" label="קבץ">
+        <attvalues>
+          <attvalue for="0" value="to be gathered, to gather" />
+          <attvalue for="1" value="לְהִיקָּבֵץ" />
+        </attvalues>
+      </node>
+      <node id="קבר" label="קבר">
+        <attvalues>
+          <attvalue for="0" value="to be buried, to be interred" />
+          <attvalue for="1" value="לְהִיקָּבֵר" />
+        </attvalues>
+      </node>
+      <node id="קדח" label="קדח">
+        <attvalues>
+          <attvalue for="0" value="to be drilled, to be bored (of a hole, well)" />
+          <attvalue for="1" value="לְהִיקָּדֵחַ" />
+        </attvalues>
+      </node>
+      <node id="קהל" label="קהל">
+        <attvalues>
+          <attvalue for="0" value="to gather, to assemble" />
+          <attvalue for="1" value="לְהִיקָּהֵל" />
+        </attvalues>
+      </node>
+      <node id="קוה" label="קוה">
+        <attvalues>
+          <attvalue for="0" value="to flow, to form a body of liquid" />
+          <attvalue for="1" value="לְהִיקָּווֹת" />
+        </attvalues>
+      </node>
+      <node id="קטל" label="קטל">
+        <attvalues>
+          <attvalue for="0" value="to be killed, destroyed; to be harshly criticised" />
+          <attvalue for="1" value="לְהִיקָּטֵל" />
+        </attvalues>
+      </node>
+      <node id="קטע" label="קטע">
+        <attvalues>
+          <attvalue for="0" value="to be cut off; to be interrupted" />
+          <attvalue for="1" value="לְהִיקָּטֵעַ" />
+        </attvalues>
+      </node>
+      <node id="קטף" label="קטף">
+        <attvalues>
+          <attvalue for="0" value="to be harvested" />
+          <attvalue for="1" value="לְהִיקָּטֵף" />
+        </attvalues>
+      </node>
+      <node id="קלט" label="קלט">
+        <attvalues>
+          <attvalue for="0" value="to be received, to adapt; to be understood" />
+          <attvalue for="1" value="לְהִיקָּלֵט" />
+        </attvalues>
+      </node>
+      <node id="קלה" label="קלה">
+        <attvalues>
+          <attvalue for="0" value="to be toasted, roasted" />
+          <attvalue for="1" value="לְהִיקָּלוֹת" />
+        </attvalues>
+      </node>
+      <node id="קלע" label="קלע">
+        <attvalues>
+          <attvalue for="0" value="to be shot (of an arrow, bullet), to be thrown; to be woven, braided" />
+          <attvalue for="1" value="לְהִיקָּלֵעַ" />
+        </attvalues>
+      </node>
+      <node id="קמל" label="קמל">
+        <attvalues>
+          <attvalue for="0" value="to wither, to fade" />
+          <attvalue for="1" value="לְהִיקָּמֵל" />
+        </attvalues>
+      </node>
+      <node id="קנה" label="קנה">
+        <attvalues>
+          <attvalue for="0" value="to be bought, purchased" />
+          <attvalue for="1" value="לְהִיקָּנוֹת" />
+        </attvalues>
+      </node>
+      <node id="קנס" label="קנס">
+        <attvalues>
+          <attvalue for="0" value="to be fined" />
+          <attvalue for="1" value="לְהִיקָּנֵס" />
+        </attvalues>
+      </node>
+      <node id="קפא" label="קפא">
+        <attvalues>
+          <attvalue for="0" value="to freeze over (rare)" />
+          <attvalue for="1" value="לְהִיקָּפֵא" />
+        </attvalues>
+      </node>
+      <node id="קצר" label="קצר">
+        <attvalues>
+          <attvalue for="0" value="to be reaped (of crop)" />
+          <attvalue for="1" value="לְהִיקָּצֵר" />
+        </attvalues>
+      </node>
+      <node id="קרא" label="קרא">
+        <attvalues>
+          <attvalue for="0" value="to be named, to be called; to be nicknamed; to be read" />
+          <attvalue for="1" value="לְהִיקָּרֵא" />
+        </attvalues>
+      </node>
+      <node id="קרה" label="קרה">
+        <attvalues>
+          <attvalue for="0" value="to happen upon, to encounter" />
+          <attvalue for="1" value="לְהִיקָּרוֹת" />
+        </attvalues>
+      </node>
+      <node id="קרם" label="קרם">
+        <attvalues>
+          <attvalue for="0" value="to get covered by a crust" />
+          <attvalue for="1" value="לְהִיקָּרֵם" />
+        </attvalues>
+      </node>
+      <node id="קרע" label="קרע">
+        <attvalues>
+          <attvalue for="0" value="to be torn" />
+          <attvalue for="1" value="לְהִיקָּרֵעַ" />
+        </attvalues>
+      </node>
+      <node id="קשר" label="קשר">
+        <attvalues>
+          <attvalue for="0" value="to be tied, to be wrapped, to be attached" />
+          <attvalue for="1" value="לְהִיקָּשֵׁר" />
+        </attvalues>
+      </node>
+      <node id="ראה" label="ראה">
+        <attvalues>
+          <attvalue for="0" value="to be visible; to appear, to seem" />
+          <attvalue for="1" value="לְהֵירָאוֹת" />
+        </attvalues>
+      </node>
+      <node id="רגז" label="רגז">
+        <attvalues>
+          <attvalue for="0" value="to be annoyed, to be angry (lit.)" />
+          <attvalue for="1" value="לְהֵירָגֵז" />
+        </attvalues>
+      </node>
+      <node id="רגם" label="רגם">
+        <attvalues>
+          <attvalue for="0" value="to be stoned, to be pelted with stones" />
+          <attvalue for="1" value="לְהֵירָגֵם" />
+        </attvalues>
+      </node>
+      <node id="רגע" label="רגע">
+        <attvalues>
+          <attvalue for="0" value="to calm down, to relax" />
+          <attvalue for="1" value="לְהֵירָגֵעַ" />
+        </attvalues>
+      </node>
+      <node id="רגש" label="רגש">
+        <attvalues>
+          <attvalue for="0" value="to be worried" />
+          <attvalue for="1" value="לְהֵירָגֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="רדם" label="רדם">
+        <attvalues>
+          <attvalue for="0" value="to fall asleep, to doze off" />
+          <attvalue for="1" value="לְהֵירָדֵם" />
+        </attvalues>
+      </node>
+      <node id="רדף" label="רדף">
+        <attvalues>
+          <attvalue for="0" value="to be oppressed, to be persecuted" />
+          <attvalue for="1" value="לְהֵירָדֵף" />
+        </attvalues>
+      </node>
+      <node id="רחץ" label="רחץ">
+        <attvalues>
+          <attvalue for="0" value="to be washed, to be bathed" />
+          <attvalue for="1" value="לְהֵירָחֵץ" />
+        </attvalues>
+      </node>
+      <node id="רטב" label="רטב">
+        <attvalues>
+          <attvalue for="0" value="to be wet" />
+          <attvalue for="1" value="לְהֵירָטֵב" />
+        </attvalues>
+      </node>
+      <node id="רכש" label="רכש">
+        <attvalues>
+          <attvalue for="0" value="to be acquired, to be purchased" />
+          <attvalue for="1" value="לְהֵירָכֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="רמז" label="רמז">
+        <attvalues>
+          <attvalue for="0" value="to be hinted, to be implied" />
+          <attvalue for="1" value="לְהֵירָמֵז" />
+        </attvalues>
+      </node>
+      <node id="רמס" label="רמס">
+        <attvalues>
+          <attvalue for="0" value="to be trampled, to be crushed" />
+          <attvalue for="1" value="לְהֵירָמֵס" />
+        </attvalues>
+      </node>
+      <node id="רעד" label="רעד">
+        <attvalues>
+          <attvalue for="0" value="to shiver, to tremble" />
+          <attvalue for="1" value="לְהֵירָעֵד" />
+        </attvalues>
+      </node>
+      <node id="רעץ" label="רעץ">
+        <attvalues>
+          <attvalue for="0" value="to be defeated (lit.)" />
+          <attvalue for="1" value="לְהֵירָעֵץ" />
+        </attvalues>
+      </node>
+      <node id="רעש" label="רעש">
+        <attvalues>
+          <attvalue for="0" value="to be amazed, to be shocked" />
+          <attvalue for="1" value="לְהֵירָעֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="רפא" label="רפא">
+        <attvalues>
+          <attvalue for="0" value="to be healed, to recover" />
+          <attvalue for="1" value="לְהֵירָפֵא" />
+        </attvalues>
+      </node>
+      <node id="רצח" label="רצח">
+        <attvalues>
+          <attvalue for="0" value="to be murdered" />
+          <attvalue for="1" value="לְהֵירָצֵחַ" />
+        </attvalues>
+      </node>
+      <node id="רקב" label="רקב">
+        <attvalues>
+          <attvalue for="0" value="to rot, to decompose" />
+          <attvalue for="1" value="לְהֵירָקֵב" />
+        </attvalues>
+      </node>
+      <node id="רקם" label="רקם">
+        <attvalues>
+          <attvalue for="0" value="to be embroidered; to be planned" />
+          <attvalue for="1" value="לְהֵירָקֵם" />
+        </attvalues>
+      </node>
+      <node id="רשם" label="רשם">
+        <attvalues>
+          <attvalue for="0" value="to be registered, to be noted; to subscribe" />
+          <attvalue for="1" value="לְהֵירָשֵׁם" />
+        </attvalues>
+      </node>
+      <node id="רתם" label="רתם">
+        <attvalues>
+          <attvalue for="0" value="to be harnessed; to volunteer" />
+          <attvalue for="1" value="לְהֵירָתֵם" />
+        </attvalues>
+      </node>
+      <node id="רתע" label="רתע">
+        <attvalues>
+          <attvalue for="0" value="to recoil, to flinch" />
+          <attvalue for="1" value="לְהֵירָתֵעַ" />
+        </attvalues>
+      </node>
+      <node id="שאב" label="שאב">
+        <attvalues>
+          <attvalue for="0" value="to be pumped, to be drawn" />
+          <attvalue for="1" value="לְהִישָּׁאֵב" />
+        </attvalues>
+      </node>
+      <node id="שאל" label="שאל">
+        <attvalues>
+          <attvalue for="0" value="to be asked; to be borrowed" />
+          <attvalue for="1" value="לְהִישָּׁאֵל" />
+        </attvalues>
+      </node>
+      <node id="שאף" label="שאף">
+        <attvalues>
+          <attvalue for="0" value="to be inhaled" />
+          <attvalue for="1" value="לְהִישָּׁאֵף" />
+        </attvalues>
+      </node>
+      <node id="שאר" label="שאר">
+        <attvalues>
+          <attvalue for="0" value="to remain" />
+          <attvalue for="1" value="לְהִישָּׁאֵר" />
+        </attvalues>
+      </node>
+      <node id="שבה" label="שבה">
+        <attvalues>
+          <attvalue for="0" value="to be captured, captivated" />
+          <attvalue for="1" value="לְהִישָּׁבוֹת" />
+        </attvalues>
+      </node>
+      <node id="שבע" label="שבע">
+        <attvalues>
+          <attvalue for="0" value="to swear, to promise" />
+          <attvalue for="1" value="לְהִישָּׁבֵעַ" />
+        </attvalues>
+      </node>
+      <node id="שבר" label="שבר">
+        <attvalues>
+          <attvalue for="0" value="to be broken, to be fractured" />
+          <attvalue for="1" value="לְהִישָּׁבֵר" />
+        </attvalues>
+      </node>
+      <node id="שדד" label="שדד">
+        <attvalues>
+          <attvalue for="0" value="to be robbed, to be plundered" />
+          <attvalue for="1" value="לְהִישָּׁדֵד" />
+        </attvalues>
+      </node>
+      <node id="שחט" label="שחט">
+        <attvalues>
+          <attvalue for="0" value="to be slaughtered, to be butchered" />
+          <attvalue for="1" value="לְהִישָּׁחֵט" />
+        </attvalues>
+      </node>
+      <node id="שחק" label="שחק">
+        <attvalues>
+          <attvalue for="0" value="to be eroded, worn down" />
+          <attvalue for="1" value="לְהִישָּׁחֵק" />
+        </attvalues>
+      </node>
+      <node id="שחת" label="שחת">
+        <attvalues>
+          <attvalue for="0" value="to be spoiled (morally)" />
+          <attvalue for="1" value="לְהִישָּׁחֵת" />
+        </attvalues>
+      </node>
+      <node id="שטף" label="שטף">
+        <attvalues>
+          <attvalue for="0" value="to be washed; to be washed away" />
+          <attvalue for="1" value="לְהִישָּׁטֵף" />
+        </attvalues>
+      </node>
+      <node id="שכב" label="שכב">
+        <attvalues>
+          <attvalue for="0" value="to lie down" />
+          <attvalue for="1" value="לְהִישָּׁכֵב" />
+        </attvalues>
+      </node>
+      <node id="שכח" label="שכח">
+        <attvalues>
+          <attvalue for="0" value="to be forgotten" />
+          <attvalue for="1" value="לְהִישָּׁכֵחַ" />
+        </attvalues>
+      </node>
+      <node id="שכר" label="שכר">
+        <attvalues>
+          <attvalue for="0" value="to be hired, to be employed, to be rented" />
+          <attvalue for="1" value="לְהִישָּׂכֵר" />
+        </attvalues>
+      </node>
+      <node id="שלח" label="שלח">
+        <attvalues>
+          <attvalue for="0" value="to be sent, to be dispatched" />
+          <attvalue for="1" value="לְהִישָּׁלֵחַ" />
+        </attvalues>
+      </node>
+      <node id="שלט" label="שלט">
+        <attvalues>
+          <attvalue for="0" value="to be ruled (by someone)" />
+          <attvalue for="1" value="לְהִישָּׁלֵט" />
+        </attvalues>
+      </node>
+      <node id="שלה" label="שלה">
+        <attvalues>
+          <attvalue for="0" value="to be pulled out from water" />
+          <attvalue for="1" value="לְהִישָּׁלוֹת" />
+        </attvalues>
+      </node>
+      <node id="שלל" label="שלל">
+        <attvalues>
+          <attvalue for="0" value="to be rejected; to be revoked" />
+          <attvalue for="1" value="לְהִישָּׁלֵל" />
+        </attvalues>
+      </node>
+      <node id="שלם" label="שלם">
+        <attvalues>
+          <attvalue for="0" value="to be completed, concluded" />
+          <attvalue for="1" value="לְהִישָּׁלֵם" />
+        </attvalues>
+      </node>
+      <node id="שלף" label="שלף">
+        <attvalues>
+          <attvalue for="0" value="to be drawn (of a weapon)" />
+          <attvalue for="1" value="לְהִישָּׁלֵף" />
+        </attvalues>
+      </node>
+      <node id="שמד" label="שמד">
+        <attvalues>
+          <attvalue for="0" value="to be destroyed, to be obliterated" />
+          <attvalue for="1" value="לְהִישָּׁמֵד" />
+        </attvalues>
+      </node>
+      <node id="שמט" label="שמט">
+        <attvalues>
+          <attvalue for="0" value="to be dropped, to fall" />
+          <attvalue for="1" value="לְהִישָּׁמֵט" />
+        </attvalues>
+      </node>
+      <node id="שמם" label="שמם">
+        <attvalues>
+          <attvalue for="0" value="to be devastated, destroyed (archaic)" />
+          <attvalue for="1" value="לְהִישּׁוֹם" />
+        </attvalues>
+      </node>
+      <node id="שמע" label="שמע">
+        <attvalues>
+          <attvalue for="0" value="to be heard; to obey" />
+          <attvalue for="1" value="לְהִישָּׁמֵעַ" />
+        </attvalues>
+      </node>
+      <node id="שמר" label="שמר">
+        <attvalues>
+          <attvalue for="0" value="to be kept, safeguarded" />
+          <attvalue for="1" value="לְהִישָּׁמֵר" />
+        </attvalues>
+      </node>
+      <node id="שנה" label="שנה">
+        <attvalues>
+          <attvalue for="0" value="to be repeated" />
+          <attvalue for="1" value="לְהִישָּׁנוֹת" />
+        </attvalues>
+      </node>
+      <node id="שנק" label="שנק">
+        <attvalues>
+          <attvalue for="0" value="to be strangulated, to choke (on something)" />
+          <attvalue for="1" value="לְהִישָּׁנֵק" />
+        </attvalues>
+      </node>
+      <node id="שען" label="שען">
+        <attvalues>
+          <attvalue for="0" value="to lean (on something); to depend on" />
+          <attvalue for="1" value="לְהִישָּׁעֵן" />
+        </attvalues>
+      </node>
+      <node id="שפט" label="שפט">
+        <attvalues>
+          <attvalue for="0" value="to be judged; to be sentenced" />
+          <attvalue for="1" value="לְהִישָּׁפֵט" />
+        </attvalues>
+      </node>
+      <node id="שפך" label="שפך">
+        <attvalues>
+          <attvalue for="0" value="to be spilled" />
+          <attvalue for="1" value="לְהִישָּׁפֵךְ" />
+        </attvalues>
+      </node>
+      <node id="שקל" label="שקל">
+        <attvalues>
+          <attvalue for="0" value="to be weighed" />
+          <attvalue for="1" value="לְהִישָּׁקֵל" />
+        </attvalues>
+      </node>
+      <node id="שקף" label="שקף">
+        <attvalues>
+          <attvalue for="0" value="to be seen, to be viewed" />
+          <attvalue for="1" value="לְהִישָּׁקֵף" />
+        </attvalues>
+      </node>
+      <node id="שרט" label="שרט">
+        <attvalues>
+          <attvalue for="0" value="to be scratched" />
+          <attvalue for="1" value="לְהִישָּׂרֵט" />
+        </attvalues>
+      </node>
+      <node id="שרך" label="שרך">
+        <attvalues>
+          <attvalue for="0" value="to trudge, to lumber; to follow, to trail behind (אחרי)" />
+          <attvalue for="1" value="לְהִישָּׂרֵךְ" />
+        </attvalues>
+      </node>
+      <node id="שרף" label="שרף">
+        <attvalues>
+          <attvalue for="0" value="to be burnt" />
+          <attvalue for="1" value="לְהִישָּׂרֵף" />
+        </attvalues>
+      </node>
+      <node id="שתה" label="שתה">
+        <attvalues>
+          <attvalue for="0" value="to be imbibed, drunk" />
+          <attvalue for="1" value="לְהִישָּׁתוֹת" />
+        </attvalues>
+      </node>
+      <node id="שתל" label="שתל">
+        <attvalues>
+          <attvalue for="0" value="to be planted" />
+          <attvalue for="1" value="לְהִישָּׁתֵל" />
+        </attvalues>
+      </node>
+      <node id="תבע" label="תבע">
+        <attvalues>
+          <attvalue for="0" value="to be demanded; to be sued" />
+          <attvalue for="1" value="לְהִיתָּבֵעַ" />
+        </attvalues>
+      </node>
+      <node id="תחב" label="תחב">
+        <attvalues>
+          <attvalue for="0" value="to be inserted" />
+          <attvalue for="1" value="לְהִיתָּחֵב" />
+        </attvalues>
+      </node>
+      <node id="תכן" label="תכן">
+        <attvalues>
+          <attvalue for="0" value="to be planned, prepared (rare)" />
+          <attvalue for="1" value="לְהִיתָּכֵן" />
+        </attvalues>
+      </node>
+      <node id="תלה" label="תלה">
+        <attvalues>
+          <attvalue for="0" value="to be hung" />
+          <attvalue for="1" value="לְהִיתָּלוֹת" />
+        </attvalues>
+      </node>
+      <node id="תלש" label="תלש">
+        <attvalues>
+          <attvalue for="0" value="to be torn off" />
+          <attvalue for="1" value="לְהִיתָּלֵשׁ" />
+        </attvalues>
+      </node>
+      <node id="תמך" label="תמך">
+        <attvalues>
+          <attvalue for="0" value="to rest (on something), to be supported by" />
+          <attvalue for="1" value="לְהִיתָּמֵךְ" />
+        </attvalues>
+      </node>
+      <node id="תעב" label="תעב">
+        <attvalues>
+          <attvalue for="0" value="to be loathed, abhorred" />
+          <attvalue for="1" value="לְהִיתָּעֵב" />
+        </attvalues>
+      </node>
+      <node id="תפס" label="תפס">
+        <attvalues>
+          <attvalue for="0" value="to be caught; to be understood, to be perceived" />
+          <attvalue for="1" value="לְהִיתָּפֵשׂ" />
+        </attvalues>
+      </node>
+      <node id="תקל" label="תקל">
+        <attvalues>
+          <attvalue for="0" value="to bump into, to encounter" />
+          <attvalue for="1" value="לְהִיתָּקֵל" />
+        </attvalues>
+      </node>
+      <node id="תקע" label="תקע">
+        <attvalues>
+          <attvalue for="0" value="to be stuck, to be thrust into" />
+          <attvalue for="1" value="לְהִיתָּקֵעַ" />
+        </attvalues>
+      </node>
+      <node id="תקף" label="תקף">
+        <attvalues>
+          <attvalue for="0" value="to be attacked, to be stricken" />
+          <attvalue for="1" value="לְהִיתָּקֵף" />
+        </attvalues>
+      </node>
+      <node id="תרם" label="תרם">
+        <attvalues>
+          <attvalue for="0" value="to be donated" />
+          <attvalue for="1" value="לְהִיתָּרֵם" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="אגר" target="ארג" id="0" />
+      <edge source="אטם" target="טמא" id="1" />
+      <edge source="אכל" target="כלא" id="2" />
+      <edge source="אלם" target="מלא" id="3" />
+      <edge source="בדק" target="דבק" id="4" />
+      <edge source="בהל" target="להב" id="5" />
+      <edge source="בחר" target="חרב" id="6" />
+      <edge source="בלע" target="עלב" id="7" />
+      <edge source="בעט" target="טבע" id="8" />
+      <edge source="בעת" target="תבע" id="9" />
+      <edge source="בעת" target="תעב" id="10" />
+      <edge source="בצע" target="עצב" id="11" />
+      <edge source="בצע" target="צבע" id="12" />
+      <edge source="בצר" target="צבר" id="13" />
+      <edge source="בצר" target="צרב" id="14" />
+      <edge source="בקע" target="קבע" id="15" />
+      <edge source="גזר" target="רגז" id="16" />
+      <edge source="גמר" target="גרם" id="17" />
+      <edge source="גמר" target="רגם" id="18" />
+      <edge source="גרם" target="רגם" id="19" />
+      <edge source="גרס" target="סגר" id="20" />
+      <edge source="גרס" target="סרג" id="21" />
+      <edge source="גרע" target="רגע" id="22" />
+      <edge source="דהם" target="דמה" id="23" />
+      <edge source="דחק" target="קדח" id="24" />
+      <edge source="דפס" target="ספד" id="25" />
+      <edge source="דפק" target="פקד" id="26" />
+      <edge source="הדף" target="פדה" id="27" />
+      <edge source="הפך" target="כפה" id="28" />
+      <edge source="זהר" target="זרה" id="29" />
+      <edge source="זרע" target="עזר" id="30" />
+      <edge source="חבט" target="חטב" id="31" />
+      <edge source="חבט" target="טבח" id="32" />
+      <edge source="חבש" target="חשב" id="33" />
+      <edge source="חטב" target="טבח" id="34" />
+      <edge source="חכר" target="חרך" id="35" />
+      <edge source="חלץ" target="לחץ" id="36" />
+      <edge source="חלק" target="לקח" id="37" />
+      <edge source="חלש" target="שלח" id="38" />
+      <edge source="חרץ" target="רחץ" id="39" />
+      <edge source="חרץ" target="רצח" id="40" />
+      <edge source="חשק" target="שחק" id="41" />
+      <edge source="חתם" target="מתח" id="42" />
+      <edge source="טען" target="נטע" id="43" />
+      <edge source="טפל" target="פלט" id="44" />
+      <edge source="טרף" target="פטר" id="45" />
+      <edge source="טרף" target="פרט" id="46" />
+      <edge source="ידע" target="יעד" id="47" />
+      <edge source="כבש" target="שכב" id="48" />
+      <edge source="לקט" target="קטל" id="49" />
+      <edge source="לקט" target="קלט" id="50" />
+      <edge source="מסר" target="רמס" id="51" />
+      <edge source="משל" target="שלם" id="52" />
+      <edge source="סגר" target="סרג" id="53" />
+      <edge source="סחף" target="ספח" id="54" />
+      <edge source="סחף" target="פסח" id="55" />
+      <edge source="ספח" target="פסח" id="56" />
+      <edge source="ספר" target="פרס" id="57" />
+      <edge source="סקר" target="סרק" id="58" />
+      <edge source="עדר" target="רעד" id="59" />
+      <edge source="עכר" target="ערך" id="60" />
+      <edge source="ענש" target="שען" id="61" />
+      <edge source="עצב" target="צבע" id="62" />
+      <edge source="עצר" target="ערץ" id="63" />
+      <edge source="עצר" target="רעץ" id="64" />
+      <edge source="עקר" target="קרע" id="65" />
+      <edge source="ערץ" target="רעץ" id="66" />
+      <edge source="עתק" target="תקע" id="67" />
+      <edge source="עתר" target="רתע" id="68" />
+      <edge source="פטר" target="פרט" id="69" />
+      <edge source="פער" target="פרע" id="70" />
+      <edge source="פרד" target="רדף" id="71" />
+      <edge source="פרש" target="שרף" id="72" />
+      <edge source="פשט" target="שטף" id="73" />
+      <edge source="פשט" target="שפט" id="74" />
+      <edge source="צבר" target="צרב" id="75" />
+      <edge source="קבר" target="רקב" id="76" />
+      <edge source="קהל" target="קלה" id="77" />
+      <edge source="קטל" target="קלט" id="78" />
+      <edge source="קרם" target="רקם" id="79" />
+      <edge source="רחץ" target="רצח" id="80" />
+      <edge source="רכש" target="שכר" id="81" />
+      <edge source="רכש" target="שרך" id="82" />
+      <edge source="רשם" target="שמר" id="83" />
+      <edge source="רתם" target="תרם" id="84" />
+      <edge source="שטף" target="שפט" id="85" />
+      <edge source="שכר" target="שרך" id="86" />
+      <edge source="שתל" target="תלש" id="87" />
+      <edge source="תבע" target="תעב" id="88" />
+    </edges>
+  </graph>
+</gexf>
