@@ -77,7 +77,7 @@
 
       // Create buttons for permutation graphs
       pages.forEach(page => {
-        if (page.link.includes('_network.html') && !page.name.includes("Semantic")) {
+        if (page.link.includes('permutation')) {
           const button = document.createElement('a');
           button.textContent = page.name.replace(" Permutation", "");
           button.href = page.link;
@@ -88,7 +88,7 @@
 
       // Create buttons for semantic graphs
       pages.forEach(page => {
-        if (page.link.includes('_semantic_network.html')) {
+        if (page.link.includes('semantic')) {
           const button = document.createElement('a');
           button.textContent = page.name.replace(" Semantic", "");
           button.href = page.link;
