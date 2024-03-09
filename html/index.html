@@ -45,26 +45,58 @@
   <script>
     // Array of page links
     const pages = [
-      { name: "pa'al", link: "roots_verb_pa'al_network.html" },
-      { name: "nif'al", link: "roots_verb_nif'al_network.html" },
-      { name: "pi'el", link: "roots_verb_pi'el_network.html" },
-      { name: "hif'il", link: "roots_verb_hif'il_network.html" },
-      { name: "hitpa'el", link: "roots_verb_hitpa'el_network.html" }
+      { name: "Hif'il Permutation", link: "roots_verb_hif'il_network.html" },
+      { name: "Hif'il Semantic", link: "roots_verb_hif'il_semantic_network.html" },
+      { name: "Hitpa'el Permutation", link: "roots_verb_hitpa'el_network.html" },
+      { name: "Hitpa'el Semantic", link: "roots_verb_hitpa'el_semantic_network.html" },
+      { name: "Nif'al Permutation", link: "roots_verb_nif'al_network.html" },
+      { name: "Nif'al Semantic", link: "roots_verb_nif'al_semantic_network.html" },
+      { name: "Pa'al Permutation", link: "roots_verb_pa'al_network.html" },
+      { name: "Pa'al Semantic", link: "roots_verb_pa'al_semantic_network.html" },
+      { name: "Pi'el Permutation", link: "roots_verb_pi'el_network.html" },
+      { name: "Pi'el Semantic", link: "roots_verb_pi'el_semantic_network.html" }
     ];
 
     // Function to render the buttons
     function renderButtons() {
       const buttonContainer = document.getElementById('buttonContainer');
+
+      // Create row for network permutation graphs
+      const networkPermutationRow = document.createElement('div');
+      networkPermutationRow.className = 'button-row';
+      buttonContainer.appendChild(networkPermutationRow);
+
+      // Create buttons for network permutation graphs
       pages.forEach(page => {
-        const button = document.createElement('a');
-        button.textContent = page.name;
-        button.href = page.link;
-        button.className = 'button';
-        buttonContainer.appendChild(button);
+        if (page.link.includes('_network.html') && !page.name.includes("Semantic")) {
+          const button = document.createElement('a');
+          button.textContent = page.name;
+          button.href = page.link;
+          button.className = 'button';
+          networkPermutationRow.appendChild(button);
+        }
+      });
+
+      // Create row for semantic graphs
+      const semanticRow = document.createElement('div');
+      semanticRow.className = 'button-row';
+      buttonContainer.appendChild(semanticRow);
+
+      // Create buttons for semantic graphs
+      pages.forEach(page => {
+        if (page.link.includes('_semantic_network.html')) {
+          const button = document.createElement('a');
+          button.textContent = page.name;
+          button.href = page.link;
+          button.className = 'button';
+          semanticRow.appendChild(button);
+        }
       });
     }
 
+    // Call the function to render the buttons
     renderButtons();
+
   </script>
 </body>
 
