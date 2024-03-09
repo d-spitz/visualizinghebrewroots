@@ -7,7 +7,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 600px;
+      max-width: 1000px;
       margin: 20px auto;
       padding: 20px;
       text-align: center;
@@ -49,24 +49,25 @@
   <h2>Permutation Graphs</h2>
   <p> Here, an edge means the roots are a permutation of one another </p>
   <div class="button-container" id="permutationButtons"></div>
-  
+
   <h2>Semantic Similarity Graphs</h2>
-  <p> Here, an edge means the roots are semantically similar, thicker = more similar. Node size is weighted by degree (how similar it is to others) </p>
+  <p> Here, an edge means the roots are semantically similar, thicker = more similar. Node size is weighted by degree
+    (how similar it is to others) </p>
   <div class="button-container" id="semanticButtons"></div>
 
   <script>
     // Array of page links
     const pages = [
-      { name: "Hif'il Permutation", link: "roots_verb_hif'il_network.html" },
-      { name: "Hif'il Semantic", link: "roots_verb_hif'il_semantic_network.html" },
-      { name: "Hitpa'el Permutation", link: "roots_verb_hitpa'el_network.html" },
-      { name: "Hitpa'el Semantic", link: "roots_verb_hitpa'el_semantic_network.html" },
-      { name: "Nif'al Permutation", link: "roots_verb_nif'al_network.html" },
-      { name: "Nif'al Semantic", link: "roots_verb_nif'al_semantic_network.html" },
-      { name: "Pa'al Permutation", link: "roots_verb_pa'al_network.html" },
-      { name: "Pa'al Semantic", link: "roots_verb_pa'al_semantic_network.html" },
-      { name: "Pi'el Permutation", link: "roots_verb_pi'el_network.html" },
-      { name: "Pi'el Semantic", link: "roots_verb_pi'el_semantic_network.html" }
+      { name: "Hif'il Permutation", link: "graphs/permutation/hif'il.html" },
+      { name: "Hif'il Semantic", link: "graphs/semantic/hif'il.html" },
+      { name: "Hitpa'el Permutation", link: "graphs/permutation/hitpa'el.html" },
+      { name: "Hitpa'el Semantic", link: "graphs/semantic/hitpa'el.html" },
+      { name: "Nif'al Permutation", link: "graphs/permutation/nif'al.html" },
+      { name: "Nif'al Semantic", link: "graphs/semantic/nif'al.html" },
+      { name: "Pa'al Permutation", link: "graphs/permutation/pa'al.html" },
+      { name: "Pa'al Semantic", link: "graphs/semantic/pa'al.html" },
+      { name: "Pi'el Permutation", link: "graphs/permutation/pi'el.html" },
+      { name: "Pi'el Semantic", link: "graphs/semantic/pi'el.html" }
     ];
 
     // Function to render the buttons
