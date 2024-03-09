@@ -1,7 +1,7 @@
 # Here's some graphs of the roots of verbs in Modern Hebrew
 Check out these graphs! [Here's the link](html/)
 
-Each node is a Hebrew root, and an edge means that two roots are permutations of each other.
+Each node is a Hebrew root.
 Hover over a node to see its meaning in English.
 The graphs are separated by binyan, and each one filters out any isolated nodes of degree 0. 
 
