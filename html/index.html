@@ -20,6 +20,12 @@
       margin-top: 20px;
     }
 
+    .button-row {
+      width: 100%;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
     .button {
       display: inline-block;
       padding: 30px 60px;
@@ -59,40 +65,32 @@
 
     // Function to render the buttons
     function renderButtons() {
-      const buttonContainer = document.getElementById('buttonContainer');
+      const permutationContainer = document.getElementById('permutationButtons');
+      const semanticContainer = document.getElementById('semanticButtons');
 
-      // Create row for network permutation graphs
-      const networkPermutationRow = document.createElement('div');
-      networkPermutationRow.className = 'button-row';
-      buttonContainer.appendChild(networkPermutationRow);
-
-      // Create buttons for network permutation graphs
+      // Create buttons for permutation graphs
       pages.forEach(page => {
         if (page.link.includes('_network.html') && !page.name.includes("Semantic")) {
           const button = document.createElement('a');
-          button.textContent = page.name;
+          button.textContent = page.name.replace(" Permutation", "");
           button.href = page.link;
           button.className = 'button';
-          networkPermutationRow.appendChild(button);
+          permutationContainer.appendChild(button);
         }
       });
-
-      // Create row for semantic graphs
-      const semanticRow = document.createElement('div');
-      semanticRow.className = 'button-row';
-      buttonContainer.appendChild(semanticRow);
 
       // Create buttons for semantic graphs
       pages.forEach(page => {
         if (page.link.includes('_semantic_network.html')) {
           const button = document.createElement('a');
-          button.textContent = page.name;
+          button.textContent = page.name.replace(" Semantic", "");
           button.href = page.link;
           button.className = 'button';
-          semanticRow.appendChild(button);
+          semanticContainer.appendChild(button);
         }
       });
     }
+
 
     // Call the function to render the buttons
     renderButtons();
