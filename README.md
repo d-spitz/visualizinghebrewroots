@@ -1,4 +1,4 @@
-# Here's some graphs of the roots of verbs in Modern Hebrew
+# Here's some graphs of the verb roots in Modern Hebrew
 Check out these graphs! [Here's the link](html/)
 
 Each node is a Hebrew root.
