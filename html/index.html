@@ -55,53 +55,34 @@
     (how similar it is to others) </p>
   <div class="button-container" id="semanticButtons"></div>
 
+  <h2>Levenshtein-1 Graphs</h2>
+  <p> Here, an edge means the roots have a Levenshtein distance less than or equal to one. Node size is weighted by
+    degree </p>
+  <div class="button-container" id="levenshtein-1Buttons"></div>
+
   <script>
+    const binyans = ["pa'al", "nif'al", "pi'el", "hif'il", "hitpa'el"];
+    const edge_categories = ['permutation', 'semantic', 'levenshtein-1'];
     // Array of page links
-    const pages = [
-      { name: "Hif'il Permutation", link: "graphs/permutation/hif'il.html" },
-      { name: "Hif'il Semantic", link: "graphs/semantic/hif'il.html" },
-      { name: "Hitpa'el Permutation", link: "graphs/permutation/hitpa'el.html" },
-      { name: "Hitpa'el Semantic", link: "graphs/semantic/hitpa'el.html" },
-      { name: "Nif'al Permutation", link: "graphs/permutation/nif'al.html" },
-      { name: "Nif'al Semantic", link: "graphs/semantic/nif'al.html" },
-      { name: "Pa'al Permutation", link: "graphs/permutation/pa'al.html" },
-      { name: "Pa'al Semantic", link: "graphs/semantic/pa'al.html" },
-      { name: "Pi'el Permutation", link: "graphs/permutation/pi'el.html" },
-      { name: "Pi'el Semantic", link: "graphs/semantic/pi'el.html" }
-    ];
+    function getPageLink(binyan, edge_category) {
+      return `graphs/${edge_category}/${binyan}.html`;
+    }
 
     // Function to render the buttons
     function renderButtons() {
-      const permutationContainer = document.getElementById('permutationButtons');
-      const semanticContainer = document.getElementById('semanticButtons');
-
-      // Create buttons for permutation graphs
-      pages.forEach(page => {
-        if (page.link.includes('permutation')) {
+      edge_categories.forEach((e) => {
+        const permutationContainer = document.getElementById(`${e}Buttons`);
+        binyans.forEach((b) => {
           const button = document.createElement('a');
-          button.textContent = page.name.replace(" Permutation", "");
-          button.href = page.link;
+          button.textContent = b;
+          button.href = getPageLink(b, e);
           button.className = 'button';
           permutationContainer.appendChild(button);
-        }
-      });
-
-      // Create buttons for semantic graphs
-      pages.forEach(page => {
-        if (page.link.includes('semantic')) {
-          const button = document.createElement('a');
-          button.textContent = page.name.replace(" Semantic", "");
-          button.href = page.link;
-          button.className = 'button';
-          semanticContainer.appendChild(button);
-        }
+        });
       });
     }
 
-
-    // Call the function to render the buttons
     renderButtons();
-
   </script>
 </body>
 
